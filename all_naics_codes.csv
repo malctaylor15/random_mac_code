@@ -1,0 +1,1389 @@
+,Codes,Titles,Total Marketable US Businesses,code_len
+0,11,"Agriculture, Forestry, Fishing and Hunting",378293,2
+1,1111,Oilseed and Grain Farming,61440,4
+2,111110,Soybean Farming,4896,6
+3,111120,Oilseed (except Soybean) Farming,208,6
+4,111130,Dry Pea and Bean Farming,3666,6
+5,111140,Wheat Farming,7477,6
+6,111150,Corn Farming,28495,6
+7,111160,Rice Farming,1002,6
+8,111191,Oilseed and Grain Combination Farming,0,6
+9,111199,All Other Grain Farming,15696,6
+10,1112,Vegetable and Melon Farming,4820,4
+11,111211,Potato Farming,639,6
+12,111219,Other Vegetable (except Potato) and Melon Farming,4181,6
+13,1113,Fruit and Tree Nut Farming,11782,4
+14,111310,Orange Groves,234,6
+15,111320,Citrus (except Orange) Groves,692,6
+16,111331,Apple Orchards,1761,6
+17,111332,Grape Vineyards,2552,6
+18,111333,Strawberry Farming,305,6
+19,111334,Berry (except Strawberry) Farming,1062,6
+20,111335,Tree Nut Farming,1518,6
+21,111336,Fruit and Tree Nut Combination Farming,230,6
+22,111339,Other Noncitrus Fruit Farming,3428,6
+23,1114,"Greenhouse, Nursery, and Floriculture Production",12439,4
+24,111411,Mushroom Production,351,6
+25,111419,Other Food Crops Grown Under Cover,660,6
+26,111421,Nursery and Tree Production,6071,6
+27,111422,Floriculture Production,5357,6
+28,1119,Other Crop Farming,137054,4
+29,111910,Tobacco Farming,1981,6
+30,111920,Cotton Farming,3325,6
+31,111930,Sugarcane Farming,177,6
+32,111940,Hay Farming,2792,6
+33,111991,Sugar Beet Farming,489,6
+34,111992,Peanut Farming,376,6
+35,111998,All Other Miscellaneous Crop Farming,127914,6
+36,1121,Cattle Ranching and Farming,48050,4
+37,112111,Beef Cattle Ranching and Farming,17037,6
+38,112112,Cattle Feedlots,10529,6
+39,112120,Dairy Cattle and Milk Production,20484,6
+40,112130,Dual-Purpose Cattle Ranching and Farming,0,6
+41,1122,Hog and Pig Farming,4351,4
+42,112210,Hog and Pig Farming,4351,6
+43,1123,Poultry and Egg Production,3781,4
+44,112310,Chicken Egg Production,572,6
+45,112320,Broilers and Other Meat Type Chicken Production,974,6
+46,112330,Turkey Production,608,6
+47,112340,Poultry Hatcheries,642,6
+48,112390,Other Poultry Production,985,6
+49,1124,Sheep and Goat Farming,1333,4
+50,112410,Sheep Farming,856,6
+51,112420,Goat Farming,477,6
+52,1125,Aquaculture,1681,4
+53,112511,Finfish Farming and Fish Hatcheries,1291,6
+54,112512,Shellfish Farming,90,6
+55,112519,Other Aquaculture,300,6
+56,1129,Other Animal Production,36402,4
+57,112910,Apiculture,1444,6
+58,112920,Horses and Other Equine Production,3805,6
+59,112930,Fur-Bearing Animal and Rabbit Production,382,6
+60,112990,All Other Animal Production,30771,6
+61,1131,Timber Tract Operations,2079,4
+62,113110,Timber Tract Operations,2079,6
+63,1132,Forest Nurseries and Gathering of Forest Products,982,4
+64,113210,Forest Nurseries and Gathering of Forest Products,982,6
+65,1133,Logging,8223,4
+66,113310,Logging,8223,6
+67,1141,Fishing,1144,4
+68,114111,Finfish Fishing,516,6
+69,114112,Shellfish Fishing,453,6
+70,114119,Other Marine Fishing,175,6
+71,1142,Hunting and Trapping,2247,4
+72,114210,Hunting and Trapping,2247,6
+73,1151,Support Activities for Crop Production,12830,4
+74,115111,Cotton Ginning,621,6
+75,115112,"Soil Preparation, Planting, and Cultivating",4486,6
+76,115113,"Crop Harvesting, Primarily by Machine",1908,6
+77,115114,Postharvest Crop Activities (except Cotton Ginning),2148,6
+78,115115,Farm Labor Contractors and Crew Leaders,589,6
+79,115116,Farm Management Services,3078,6
+80,1152,Support Activities for Animal Production,22478,4
+81,115210,Support Activities for Animal Production,22478,6
+82,1153,Support Activities for Forestry,5177,4
+83,115310,Support Activities for Forestry,5177,6
+0,21,"Mining, Quarrying, and Oil and Gas Extraction",32231,2
+1,2111,Oil and Gas Extraction,5769,4
+2,211120,Crude Petroleum Extraction,5332,6
+3,211130,Natural Gas Extraction,437,6
+4,2121,Coal Mining,722,4
+5,212111,Bituminous Coal and Lignite Surface Mining,536,6
+6,212112,Bituminous Coal Underground Mining,133,6
+7,212113,Anthracite Mining,53,6
+8,2122,Metal Ore Mining,752,4
+9,212210,Iron Ore Mining,93,6
+10,212221,Gold Ore Mining,358,6
+11,212222,Silver Ore Mining,38,6
+12,212230,"Copper, Nickel, Lead, and Zinc Mining",152,6
+13,212291,Uranium-Radium-Vanadium Ore Mining,55,6
+14,212299,All Other Metal Ore Mining,56,6
+15,2123,Nonmetallic Mineral Mining and Quarrying,5536,4
+16,212311,Dimension Stone Mining and Quarrying,474,6
+17,212312,Crushed and Broken Limestone Mining and Quarrying,1027,6
+18,212313,Crushed and Broken Granite Mining and Quarrying,201,6
+19,212319,Other Crushed and Broken Stone Mining and Quarrying,419,6
+20,212321,Construction Sand and Gravel Mining,2550,6
+21,212322,Industrial Sand Mining,231,6
+22,212324,Kaolin and Ball Clay Mining,54,6
+23,212325,Clay and Ceramic and Refractory Minerals Mining,117,6
+24,212391,"Potash, Soda, and Borate Mineral Mining",37,6
+25,212392,Phosphate Rock Mining,19,6
+26,212393,Other Chemical and Fertilizer Mineral Mining,110,6
+27,212399,All Other Nonmetallic Mineral Mining,297,6
+28,2131,Support Activities for Mining,19452,4
+29,213111,Drilling Oil and Gas Wells,2357,6
+30,213112,Support Activities for Oil and Gas Operations,15991,6
+31,213113,Support Activities for Coal Mining,540,6
+32,213114,Support Activities for Metal Mining,381,6
+33,213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,183,6
+0,22,Utilities,44408,2
+1,2211,"Electric Power Generation, Transmission and Distribution",22134,4
+2,221111,Hydroelectric Power Generation,90,6
+3,221112,Fossil Fuel Electric Power Generation,142,6
+4,221113,Nuclear Electric Power Generation,36,6
+5,221114,Solar Electric Power Generation,793,6
+6,221115,Wind Electric Power Generation,275,6
+7,221116,Geothermal Electric Power Generation,104,6
+8,221117,Biomass Electric Power Generation,116,6
+9,221118,Other Electric Power Generation,17058,6
+10,221121,Electric Bulk Power Transmission and Control,280,6
+11,221122,Electric Power Distribution,3240,6
+12,2212,Natural Gas Distribution,3694,4
+13,221210,Natural Gas Distribution,3694,6
+14,2213,"Water, Sewage and Other Systems",18580,4
+15,221310,Water Supply and Irrigation Systems,16036,6
+16,221320,Sewage Treatment Facilities,2195,6
+17,221330,Steam and Air-Conditioning Supply,349,6
+0,23,Construction,1484279,2
+1,2361,Residential Building Construction,497296,4
+2,236115,New Single-Family Housing Construction (except For-Sale Builders),359337,6
+3,236116,New Multifamily Housing Construction (except For-Sale Builders),30577,6
+4,236117,New Housing For-Sale Builders,7119,6
+5,236118,Residential Remodelers,100263,6
+6,2362,Nonresidential Building Construction,63938,4
+7,236210,Industrial Building Construction,7915,6
+8,236220,Commercial and Institutional Building Construction,56023,6
+9,2371,Utility System Construction,22739,4
+10,237110,Water and Sewer Line and Related Structures Construction,17347,6
+11,237120,Oil and Gas Pipeline and Related Structures Construction,2706,6
+12,237130,Power and Communication Line and Related Structures Construction,2686,6
+13,2372,Land Subdivision,35539,4
+14,237210,Land Subdivision,35539,6
+15,2373,"Highway, Street, and Bridge Construction",27819,4
+16,237310,"Highway, Street, and Bridge Construction",27819,6
+17,2379,Other Heavy and Civil Engineering Construction,7705,4
+18,237990,Other Heavy and Civil Engineering Construction,7705,6
+19,2381,"Foundation, Structure, and Building Exterior Contractors",163674,4
+20,238110,Poured Concrete Foundation and Structure Contractors,36076,6
+21,238120,Structural Steel and Precast Concrete Contractors,2631,6
+22,238130,Framing Contractors,42776,6
+23,238140,Masonry Contractors,22897,6
+24,238150,Glass and Glazing Contractors,7032,6
+25,238160,Roofing Contractors,45469,6
+26,238170,Siding Contractors,4522,6
+27,238190,"Other Foundation, Structure, and Building Exterior Contractors",2271,6
+28,2382,Building Equipment Contractors,305884,4
+29,238210,Electrical Contractors and Other Wiring Installation Contractors,117505,6
+30,238220,"Plumbing, Heating, and Air-Conditioning Contractors",185632,6
+31,238290,Other Building Equipment Contractors,2747,6
+32,2383,Building Finishing Contractors,182233,4
+33,238310,Drywall and Insulation Contractors,29902,6
+34,238320,Painting and Wall Covering Contractors,92311,6
+35,238330,Flooring Contractors,15136,6
+36,238340,Tile and Terrazzo Contractors,22422,6
+37,238350,Finish Carpentry Contractors,11891,6
+38,238390,Other Building Finishing Contractors,10571,6
+39,2389,Other Specialty Trade Contractors,177452,4
+40,238910,Site Preparation Contractors,39392,6
+41,238990,All Other Specialty Trade Contractors,138060,6
+0,31-33,Manufacturing,638730,5
+1,3111,Animal Food Manufacturing,2227,4
+2,311111,Dog and Cat Food Manufacturing,461,6
+3,311119,Other Animal Food Manufacturing,1766,6
+4,3112,Grain and Oilseed Milling,2318,4
+5,311211,Flour Milling,720,6
+6,311212,Rice Milling,152,6
+7,311213,Malt Manufacturing,62,6
+8,311221,Wet Corn Milling,207,6
+9,311224,Soybean and Other Oilseed Processing,154,6
+10,311225,Fats and Oils Refining and Blending,645,6
+11,311230,Breakfast Cereal Manufacturing,378,6
+12,3113,Sugar and Confectionery Product Manufacturing,2454,4
+13,311313,Beet Sugar Manufacturing,63,6
+14,311314,Cane Sugar Manufacturing,114,6
+15,311340,Nonchocolate Confectionery Manufacturing,1381,6
+16,311351,Chocolate and Confectionery Manufacturing from Cacao Beans,570,6
+17,311352,Confectionery Manufacturing from Purchased Chocolate,326,6
+18,3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing,3786,4
+19,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",520,6
+20,311412,Frozen Specialty Food Manufacturing,657,6
+21,311421,Fruit and Vegetable Canning,1709,6
+22,311422,Specialty Canning,581,6
+23,311423,Dried and Dehydrated Food Manufacturing,319,6
+24,3115,Dairy Product Manufacturing,3865,4
+25,311511,Fluid Milk Manufacturing,671,6
+26,311512,Creamery Butter Manufacturing,204,6
+27,311513,Cheese Manufacturing,683,6
+28,311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",917,6
+29,311520,Ice Cream and Frozen Dessert Manufacturing,1390,6
+30,3116,Animal Slaughtering and Processing,4646,4
+31,311611,Animal (except Poultry) Slaughtering,2138,6
+32,311612,Meat Processed from Carcasses,1430,6
+33,311613,Rendering and Meat Byproduct Processing,309,6
+34,311615,Poultry Processing,769,6
+35,3117,Seafood Product Preparation and Packaging,799,4
+36,311710,Seafood Product Preparation and Packaging,799,6
+37,3118,Bakeries and Tortilla Manufacturing,27682,4
+38,311811,Retail Bakeries,21363,6
+39,311812,Commercial Bakeries,4165,6
+40,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing",253,6
+41,311821,Cookie and Cracker Manufacturing,704,6
+42,311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",561,6
+43,311830,Tortilla Manufacturing,636,6
+44,3119,Other Food Manufacturing,8062,4
+45,311911,Roasted Nuts and Peanut Butter Manufacturing,251,6
+46,311919,Other Snack Food Manufacturing,593,6
+47,311920,Coffee and Tea Manufacturing,965,6
+48,311930,Flavoring Syrup and Concentrate Manufacturing,297,6
+49,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",565,6
+50,311942,Spice and Extract Manufacturing,1369,6
+51,311991,Perishable Prepared Food Manufacturing,385,6
+52,311999,All Other Miscellaneous Food Manufacturing,3637,6
+53,3121,Beverage Manufacturing,14313,4
+54,312111,Soft Drink Manufacturing,2847,6
+55,312112,Bottled Water Manufacturing,499,6
+56,312113,Ice Manufacturing,554,6
+57,312120,Breweries,2317,6
+58,312130,Wineries,6800,6
+59,312140,Distilleries,1296,6
+60,3122,Tobacco Manufacturing,492,4
+61,312230,Tobacco Manufacturing,492,6
+62,3131,"Fiber, Yarn, and Thread Mills",766,4
+63,313110,"Fiber, Yarn, and Thread Mills",766,6
+64,3132,Fabric Mills,5233,4
+65,313210,Broadwoven Fabric Mills,4337,6
+66,313220,Narrow Fabric Mills and Schiffli Machine Embroidery,457,6
+67,313230,Nonwoven Fabric Mills,228,6
+68,313240,Knit Fabric Mills,211,6
+69,3133,Textile and Fabric Finishing and Fabric Coating Mills,1557,4
+70,313310,Textile and Fabric Finishing Mills,1187,6
+71,313320,Fabric Coating Mills,370,6
+72,3141,Textile Furnishings Mills,2701,4
+73,314110,Carpet and Rug Mills,1027,6
+74,314120,Curtain and Linen Mills,1674,6
+75,3149,Other Textile Product Mills,13509,4
+76,314910,Textile Bag and Canvas Mills,2105,6
+77,314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",378,6
+78,314999,All Other Miscellaneous Textile Product Mills,11026,6
+79,3151,Apparel Knitting Mills,1466,4
+80,315110,Hosiery and Sock Mills,662,6
+81,315190,Other Apparel Knitting Mills,804,6
+82,3152,Cut and Sew Apparel Manufacturing,8303,4
+83,315210,Cut and Sew Apparel Contractors,397,6
+84,315220,Men's and Boys' Cut and Sew Apparel Manufacturing,3043,6
+85,315240,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",3829,6
+86,315280,Other Cut and Sew Apparel Manufacturing,1034,6
+87,3159,Apparel Accessories and Other Apparel Manufacturing,2594,4
+88,315990,Apparel Accessories and Other Apparel Manufacturing,2594,6
+89,3161,Leather and Hide Tanning and Finishing,742,4
+90,316110,Leather and Hide Tanning and Finishing,742,6
+91,3162,Footwear Manufacturing,700,4
+92,316210,Footwear Manufacturing,700,6
+93,3169,Other Leather and Allied Product Manufacturing,3566,4
+94,316992,Women's Handbag and Purse Manufacturing,324,6
+95,316998,All Other Leather Good and Allied Product Manufacturing,3242,6
+96,3211,Sawmills and Wood Preservation,3186,4
+97,321113,Sawmills,2506,6
+98,321114,Wood Preservation,680,6
+99,3212,"Veneer, Plywood, and Engineered Wood Product Manufacturing",1680,4
+100,321211,Hardwood Veneer and Plywood Manufacturing,302,6
+101,321212,Softwood Veneer and Plywood Manufacturing,87,6
+102,321213,Engineered Wood Member (except Truss) Manufacturing,67,6
+103,321214,Truss Manufacturing,894,6
+104,321219,Reconstituted Wood Product Manufacturing,330,6
+105,3219,Other Wood Product Manufacturing,26377,4
+106,321911,Wood Window and Door Manufacturing,1387,6
+107,321912,"Cut Stock, Resawing Lumber, and Planing",1300,6
+108,321918,Other Millwork (including Flooring),13997,6
+109,321920,Wood Container and Pallet Manufacturing,3246,6
+110,321991,Manufactured Home (Mobile Home) Manufacturing,658,6
+111,321992,Prefabricated Wood Building Manufacturing,1150,6
+112,321999,All Other Miscellaneous Wood Product Manufacturing,4639,6
+113,3221,"Pulp, Paper, and Paperboard Mills",3128,4
+114,322110,Pulp Mills,375,6
+115,322121,Paper (except Newsprint) Mills,1931,6
+116,322122,Newsprint Mills,31,6
+117,322130,Paperboard Mills,791,6
+118,3222,Converted Paper Product Manufacturing,6352,4
+119,322211,Corrugated and Solid Fiber Box Manufacturing,1743,6
+120,322212,Folding Paperboard Box Manufacturing,185,6
+121,322219,Other Paperboard Container Manufacturing,703,6
+122,322220,Paper Bag and Coated and Treated Paper Manufacturing,1668,6
+123,322230,Stationery Product Manufacturing,422,6
+124,322291,Sanitary Paper Product Manufacturing,359,6
+125,322299,All Other Converted Paper Product Manufacturing,1272,6
+126,3231,Printing and Related Support Activities,53803,4
+127,323111,Commercial Printing (except Screen and Books),44937,6
+128,323113,Commercial Screen Printing,6712,6
+129,323117,Books Printing,399,6
+130,323120,Support Activities for Printing,1755,6
+131,3241,Petroleum and Coal Products Manufacturing,4542,4
+132,324110,Petroleum Refineries,1660,6
+133,324121,Asphalt Paving Mixture and Block Manufacturing,1422,6
+134,324122,Asphalt Shingle and Coating Materials Manufacturing,600,6
+135,324191,Petroleum Lubricating Oil and Grease Manufacturing,693,6
+136,324199,All Other Petroleum and Coal Products Manufacturing,167,6
+137,3251,Basic Chemical Manufacturing,8278,4
+138,325110,Petrochemical Manufacturing,1560,6
+139,325120,Industrial Gas Manufacturing,1387,6
+140,325130,Synthetic Dye and Pigment Manufacturing,304,6
+141,325180,Other Basic Inorganic Chemical Manufacturing,2768,6
+142,325193,Ethyl Alcohol Manufacturing,213,6
+143,325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",211,6
+144,325199,All Other Basic Organic Chemical Manufacturing,1835,6
+145,3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",3034,4
+146,325211,Plastics Material and Resin Manufacturing,2534,6
+147,325212,Synthetic Rubber Manufacturing,266,6
+148,325220,Artificial and Synthetic Fibers and Filaments Manufacturing,234,6
+149,3253,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",2197,4
+150,325311,Nitrogenous Fertilizer Manufacturing,474,6
+151,325312,Phosphatic Fertilizer Manufacturing,113,6
+152,325314,Fertilizer (Mixing Only) Manufacturing,597,6
+153,325320,Pesticide and Other Agricultural Chemical Manufacturing,1013,6
+154,3254,Pharmaceutical and Medicine Manufacturing,12029,4
+155,325411,Medicinal and Botanical Manufacturing,1226,6
+156,325412,Pharmaceutical Preparation Manufacturing,8703,6
+157,325413,In-Vitro Diagnostic Substance Manufacturing,182,6
+158,325414,Biological Product (except Diagnostic) Manufacturing,1918,6
+159,3255,"Paint, Coating, and Adhesive Manufacturing",3527,4
+160,325510,Paint and Coating Manufacturing,2288,6
+161,325520,Adhesive Manufacturing,1239,6
+162,3256,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",7581,4
+163,325611,Soap and Other Detergent Manufacturing,1234,6
+164,325612,Polish and Other Sanitation Good Manufacturing,1999,6
+165,325613,Surface Active Agent Manufacturing,163,6
+166,325620,Toilet Preparation Manufacturing,4185,6
+167,3259,Other Chemical Product and Preparation Manufacturing,4711,4
+168,325910,Printing Ink Manufacturing,639,6
+169,325920,Explosives Manufacturing,245,6
+170,325991,Custom Compounding of Purchased Resins,153,6
+171,325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing",326,6
+172,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,3348,6
+173,3261,Plastics Product Manufacturing,14388,4
+174,326111,Plastics Bag and Pouch Manufacturing,380,6
+175,326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,179,6
+176,326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,826,6
+177,326121,Unlaminated Plastics Profile Shape Manufacturing,205,6
+178,326122,Plastics Pipe and Pipe Fitting Manufacturing,389,6
+179,326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",391,6
+180,326140,Polystyrene Foam Product Manufacturing,62,6
+181,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,1249,6
+182,326160,Plastics Bottle Manufacturing,285,6
+183,326191,Plastics Plumbing Fixture Manufacturing,328,6
+184,326199,All Other Plastics Product Manufacturing,10094,6
+185,3262,Rubber Product Manufacturing,3092,4
+186,326211,Tire Manufacturing (except Retreading),495,6
+187,326212,Tire Retreading,125,6
+188,326220,Rubber and Plastics Hoses and Belting Manufacturing,366,6
+189,326291,Rubber Product Manufacturing for Mechanical Use,253,6
+190,326299,All Other Rubber Product Manufacturing,1853,6
+191,3271,Clay Product and Refractory Manufacturing,2508,4
+192,327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",1381,6
+193,327120,Clay Building Material and Refractories Manufacturing,1127,6
+194,3272,Glass and Glass Product Manufacturing,3878,4
+195,327211,Flat Glass Manufacturing,679,6
+196,327212,Other Pressed and Blown Glass and Glassware Manufacturing,1179,6
+197,327213,Glass Container Manufacturing,273,6
+198,327215,Glass Product Manufacturing Made of Purchased Glass,1747,6
+199,3273,Cement and Concrete Product Manufacturing,10997,4
+200,327310,Cement Manufacturing,540,6
+201,327320,Ready-Mix Concrete Manufacturing,5512,6
+202,327331,Concrete Block and Brick Manufacturing,829,6
+203,327332,Concrete Pipe Manufacturing,181,6
+204,327390,Other Concrete Product Manufacturing,3935,6
+205,3274,Lime and Gypsum Product Manufacturing,1251,4
+206,327410,Lime Manufacturing,226,6
+207,327420,Gypsum Product Manufacturing,1025,6
+208,3279,Other Nonmetallic Mineral Product Manufacturing,3914,4
+209,327910,Abrasive Product Manufacturing,605,6
+210,327991,Cut Stone and Stone Product Manufacturing,2188,6
+211,327992,Ground or Treated Mineral and Earth Manufacturing,389,6
+212,327993,Mineral Wool Manufacturing,293,6
+213,327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,439,6
+214,3311,Iron and Steel Mills and Ferroalloy Manufacturing,2605,4
+215,331110,Iron and Steel Mills and Ferroalloy Manufacturing,2605,6
+216,3312,Steel Product Manufacturing from Purchased Steel,1699,4
+217,331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,630,6
+218,331221,Rolled Steel Shape Manufacturing,577,6
+219,331222,Steel Wire Drawing,492,6
+220,3313,Alumina and Aluminum Production and Processing,1245,4
+221,331313,Alumina Refining and Primary Aluminum Production,250,6
+222,331314,Secondary Smelting and Alloying of Aluminum,70,6
+223,331315,"Aluminum Sheet, Plate, and Foil Manufacturing",260,6
+224,331318,"Other Aluminum Rolling, Drawing, and Extruding",665,6
+225,3314,Nonferrous Metal (except Aluminum) Production and Processing,1945,4
+226,331410,Nonferrous Metal (except Aluminum) Smelting and Refining,516,6
+227,331420,"Copper Rolling, Drawing, Extruding, and Alloying",464,6
+228,331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",682,6
+229,331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",283,6
+230,3315,Foundries,2735,4
+231,331511,Iron Foundries,501,6
+232,331512,Steel Investment Foundries,248,6
+233,331513,Steel Foundries (except Investment),316,6
+234,331523,Nonferrous Metal Die-Casting Foundries,439,6
+235,331524,Aluminum Foundries (except Die-Casting),463,6
+236,331529,Other Nonferrous Metal Foundries (except Die-Casting),768,6
+237,3321,Forging and Stamping,4173,4
+238,332111,Iron and Steel Forging,1057,6
+239,332112,Nonferrous Forging,139,6
+240,332114,Custom Roll Forming,35,6
+241,332117,Powder Metallurgy Part Manufacturing,55,6
+242,332119,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",2887,6
+243,3322,Cutlery and Handtool Manufacturing,3149,4
+244,332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",1301,6
+245,332216,Saw Blade and Handtool Manufacturing,1848,6
+246,3323,Architectural and Structural Metals Manufacturing,21869,4
+247,332311,Prefabricated Metal Building and Component Manufacturing,1830,6
+248,332312,Fabricated Structural Metal Manufacturing,7891,6
+249,332313,Plate Work Manufacturing,1996,6
+250,332321,Metal Window and Door Manufacturing,1989,6
+251,332322,Sheet Metal Work Manufacturing,5573,6
+252,332323,Ornamental and Architectural Metal Work Manufacturing,2590,6
+253,3324,"Boiler, Tank, and Shipping Container Manufacturing",1405,4
+254,332410,Power Boiler and Heat Exchanger Manufacturing,213,6
+255,332420,Metal Tank (Heavy Gauge) Manufacturing,397,6
+256,332431,Metal Can Manufacturing,453,6
+257,332439,Other Metal Container Manufacturing,342,6
+258,3325,Hardware Manufacturing,1897,4
+259,332510,Hardware Manufacturing,1897,6
+260,3326,Spring and Wire Product Manufacturing,2197,4
+261,332613,Spring Manufacturing,489,6
+262,332618,Other Fabricated Wire Product Manufacturing,1708,6
+263,3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",20672,4
+264,332710,Machine Shops,18698,6
+265,332721,Precision Turned Product Manufacturing,1039,6
+266,332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",935,6
+267,3328,"Coating, Engraving, Heat Treating, and Allied Activities",8199,4
+268,332811,Metal Heat Treating,770,6
+269,332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",4336,6
+270,332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring",3093,6
+271,3329,Other Fabricated Metal Product Manufacturing,9439,4
+272,332911,Industrial Valve Manufacturing,898,6
+273,332912,Fluid Power Valve and Hose Fitting Manufacturing,443,6
+274,332913,Plumbing Fixture Fitting and Trim Manufacturing,513,6
+275,332919,Other Metal Valve and Pipe Fitting Manufacturing,702,6
+276,332991,Ball and Roller Bearing Manufacturing,360,6
+277,332992,Small Arms Ammunition Manufacturing,318,6
+278,332993,Ammunition (except Small Arms) Manufacturing,130,6
+279,332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",1224,6
+280,332996,Fabricated Pipe and Pipe Fitting Manufacturing,883,6
+281,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,3968,6
+282,3331,"Agriculture, Construction, and Mining Machinery Manufacturing",9687,4
+283,333111,Farm Machinery and Equipment Manufacturing,2979,6
+284,333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,606,6
+285,333120,Construction Machinery Manufacturing,3851,6
+286,333131,Mining Machinery and Equipment Manufacturing,587,6
+287,333132,Oil and Gas Field Machinery and Equipment Manufacturing,1664,6
+288,3332,Industrial Machinery Manufacturing,6789,4
+289,333241,Food Product Machinery Manufacturing,1367,6
+290,333242,Semiconductor Machinery Manufacturing,262,6
+291,333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing",1148,6
+292,333244,Printing Machinery and Equipment Manufacturing,691,6
+293,333249,Other Industrial Machinery Manufacturing,3321,6
+294,3333,Commercial and Service Industry Machinery Manufacturing,7510,4
+295,333314,Optical Instrument and Lens Manufacturing,1317,6
+296,333316,Photographic and Photocopying Equipment Manufacturing,931,6
+297,333318,Other Commercial and Service Industry Machinery Manufacturing,5262,6
+298,3334,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",4681,4
+299,333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,1120,6
+300,333414,Heating Equipment (except Warm Air Furnaces) Manufacturing,772,6
+301,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,2789,6
+302,3335,Metalworking Machinery Manufacturing,10602,4
+303,333511,Industrial Mold Manufacturing,1198,6
+304,333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",3468,6
+305,333515,Cutting Tool and Machine Tool Accessory Manufacturing,1921,6
+306,333517,Machine Tool Manufacturing,3134,6
+307,333519,Rolling Mill and Other Metalworking Machinery Manufacturing,881,6
+308,3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",2337,4
+309,333611,Turbine and Turbine Generator Set Units Manufacturing,674,6
+310,333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",292,6
+311,333613,Mechanical Power Transmission Equipment Manufacturing,492,6
+312,333618,Other Engine Equipment Manufacturing,879,6
+313,3339,Other General Purpose Machinery Manufacturing,14657,4
+314,333912,Air and Gas Compressor Manufacturing,690,6
+315,333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",1518,6
+316,333921,Elevator and Moving Stairway Manufacturing,359,6
+317,333922,Conveyor and Conveying Equipment Manufacturing,1112,6
+318,333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",751,6
+319,333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",1831,6
+320,333991,Power-Driven Handtool Manufacturing,391,6
+321,333992,Welding and Soldering Equipment Manufacturing,487,6
+322,333993,Packaging Machinery Manufacturing,878,6
+323,333994,Industrial Process Furnace and Oven Manufacturing,582,6
+324,333995,Fluid Power Cylinder and Actuator Manufacturing,193,6
+325,333996,Fluid Power Pump and Motor Manufacturing,320,6
+326,333997,Scale and Balance Manufacturing,269,6
+327,333999,All Other Miscellaneous General Purpose Machinery Manufacturing,5276,6
+328,3341,Computer and Peripheral Equipment Manufacturing,5242,4
+329,334111,Electronic Computer Manufacturing,1625,6
+330,334112,Computer Storage Device Manufacturing,946,6
+331,334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,2671,6
+332,3342,Communications Equipment Manufacturing,5708,4
+333,334210,Telephone Apparatus Manufacturing,1206,6
+334,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,3205,6
+335,334290,Other Communications Equipment Manufacturing,1297,6
+336,3343,Audio and Video Equipment Manufacturing,1873,4
+337,334310,Audio and Video Equipment Manufacturing,1873,6
+338,3344,Semiconductor and Other Electronic Component Manufacturing,9761,4
+339,334412,Bare Printed Circuit Board Manufacturing,269,6
+340,334413,Semiconductor and Related Device Manufacturing,3825,6
+341,334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",721,6
+342,334417,Electronic Connector Manufacturing,464,6
+343,334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing,1246,6
+344,334419,Other Electronic Component Manufacturing,3236,6
+345,3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",17533,4
+346,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,2613,6
+347,334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",3721,6
+348,334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",1207,6
+349,334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",2447,6
+350,334514,Totalizing Fluid Meter and Counting Device Manufacturing,350,6
+351,334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,1866,6
+352,334516,Analytical Laboratory Instrument Manufacturing,1972,6
+353,334517,Irradiation Apparatus Manufacturing,279,6
+354,334519,Other Measuring and Controlling Device Manufacturing,3078,6
+355,3346,Manufacturing and Reproducing Magnetic and Optical Media,2158,4
+356,334613,Blank Magnetic and Optical Recording Media Manufacturing,460,6
+357,334614,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",1698,6
+358,3351,Electric Lighting Equipment Manufacturing,3883,4
+359,335110,Electric Lamp Bulb and Part Manufacturing,406,6
+360,335121,Residential Electric Lighting Fixture Manufacturing,625,6
+361,335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",952,6
+362,335129,Other Lighting Equipment Manufacturing,1900,6
+363,3352,Household Appliance Manufacturing,1641,4
+364,335210,Small Electrical Appliance Manufacturing,804,6
+365,335220,Major Household Appliance Manufacturing,837,6
+366,3353,Electrical Equipment Manufacturing,4987,4
+367,335311,"Power, Distribution, and Specialty Transformer Manufacturing",792,6
+368,335312,Motor and Generator Manufacturing,1510,6
+369,335313,Switchgear and Switchboard Apparatus Manufacturing,865,6
+370,335314,Relay and Industrial Control Manufacturing,1820,6
+371,3359,Other Electrical Equipment and Component Manufacturing,6723,4
+372,335911,Storage Battery Manufacturing,559,6
+373,335912,Primary Battery Manufacturing,109,6
+374,335921,Fiber Optic Cable Manufacturing,183,6
+375,335929,Other Communication and Energy Wire Manufacturing,156,6
+376,335931,Current-Carrying Wiring Device Manufacturing,783,6
+377,335932,Noncurrent-Carrying Wiring Device Manufacturing,597,6
+378,335991,Carbon and Graphite Product Manufacturing,276,6
+379,335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,4060,6
+380,3361,Motor Vehicle Manufacturing,1700,4
+381,336111,Automobile Manufacturing,1172,6
+382,336112,Light Truck and Utility Vehicle Manufacturing,78,6
+383,336120,Heavy Duty Truck Manufacturing,450,6
+384,3362,Motor Vehicle Body and Trailer Manufacturing,2919,4
+385,336211,Motor Vehicle Body Manufacturing,974,6
+386,336212,Truck Trailer Manufacturing,1092,6
+387,336213,Motor Home Manufacturing,92,6
+388,336214,Travel Trailer and Camper Manufacturing,761,6
+389,3363,Motor Vehicle Parts Manufacturing,8585,4
+390,336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,679,6
+391,336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing,1183,6
+392,336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,154,6
+393,336340,Motor Vehicle Brake System Manufacturing,186,6
+394,336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,452,6
+395,336360,Motor Vehicle Seating and Interior Trim Manufacturing,455,6
+396,336370,Motor Vehicle Metal Stamping,719,6
+397,336390,Other Motor Vehicle Parts Manufacturing,4757,6
+398,3364,Aerospace Product and Parts Manufacturing,6994,4
+399,336411,Aircraft Manufacturing,2504,6
+400,336412,Aircraft Engine and Engine Parts Manufacturing,1219,6
+401,336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing,2835,6
+402,336414,Guided Missile and Space Vehicle Manufacturing,198,6
+403,336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,155,6
+404,336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,83,6
+405,3365,Railroad Rolling Stock Manufacturing,609,4
+406,336510,Railroad Rolling Stock Manufacturing,609,6
+407,3366,Ship and Boat Building,3692,4
+408,336611,Ship Building and Repairing,1067,6
+409,336612,Boat Building,2625,6
+410,3369,Other Transportation Equipment Manufacturing,2305,4
+411,336991,"Motorcycle, Bicycle, and Parts Manufacturing",1193,6
+412,336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing",228,6
+413,336999,All Other Transportation Equipment Manufacturing,884,6
+414,3371,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,21501,4
+415,337110,Wood Kitchen Cabinet and Countertop Manufacturing,14183,6
+416,337121,Upholstered Household Furniture Manufacturing,843,6
+417,337122,Nonupholstered Wood Household Furniture Manufacturing,3218,6
+418,337124,Metal Household Furniture Manufacturing,429,6
+419,337125,Household Furniture (except Wood and Metal) Manufacturing,476,6
+420,337127,Institutional Furniture Manufacturing,2352,6
+421,3372,Office Furniture (including Fixtures) Manufacturing,3290,4
+422,337211,Wood Office Furniture Manufacturing,871,6
+423,337212,Custom Architectural Woodwork and Millwork Manufacturing,900,6
+424,337214,Office Furniture (except Wood) Manufacturing,528,6
+425,337215,"Showcase, Partition, Shelving, and Locker Manufacturing",991,6
+426,3379,Other Furniture Related Product Manufacturing,1966,4
+427,337910,Mattress Manufacturing,704,6
+428,337920,Blind and Shade Manufacturing,1262,6
+429,3391,Medical Equipment and Supplies Manufacturing,21104,4
+430,339112,Surgical and Medical Instrument Manufacturing,5517,6
+431,339113,Surgical Appliance and Supplies Manufacturing,4585,6
+432,339114,Dental Equipment and Supplies Manufacturing,1376,6
+433,339115,Ophthalmic Goods Manufacturing,1027,6
+434,339116,Dental Laboratories,8599,6
+435,3399,Other Miscellaneous Manufacturing,72830,4
+436,339910,Jewelry and Silverware Manufacturing,5142,6
+437,339920,Sporting and Athletic Goods Manufacturing,7921,6
+438,339930,"Doll, Toy, and Game Manufacturing",3388,6
+439,339940,Office Supplies (except Paper) Manufacturing,1648,6
+440,339950,Sign Manufacturing,20822,6
+441,339991,"Gasket, Packing, and Sealing Device Manufacturing",824,6
+442,339992,Musical Instrument Manufacturing,1592,6
+443,339993,"Fastener, Button, Needle, and Pin Manufacturing",580,6
+444,339994,"Broom, Brush, and Mop Manufacturing",346,6
+445,339995,Burial Casket Manufacturing,121,6
+446,339999,All Other Miscellaneous Manufacturing,30446,6
+0,42,Wholesale Trade,697579,2
+1,4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,35636,4
+2,423110,Automobile and Other Motor Vehicle Merchant Wholesalers,8578,6
+3,423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers,19521,6
+4,423130,Tire and Tube Merchant Wholesalers,3317,6
+5,423140,Motor Vehicle Parts (Used) Merchant Wholesalers,4220,6
+6,4232,Furniture and Home Furnishing Merchant Wholesalers,23438,4
+7,423210,Furniture Merchant Wholesalers,8363,6
+8,423220,Home Furnishing Merchant Wholesalers,15075,6
+9,4233,Lumber and Other Construction Materials Merchant Wholesalers,40370,4
+10,423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",22051,6
+11,423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers",11664,6
+12,423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers",3126,6
+13,423390,Other Construction Material Merchant Wholesalers,3529,6
+14,4234,Professional and Commercial Equipment and Supplies Merchant Wholesalers,59897,4
+15,423410,Photographic Equipment and Supplies Merchant Wholesalers,823,6
+16,423420,Office Equipment Merchant Wholesalers,5720,6
+17,423430,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,12428,6
+18,423440,Other Commercial Equipment Merchant Wholesalers,18331,6
+19,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",18470,6
+20,423460,Ophthalmic Goods Merchant Wholesalers,430,6
+21,423490,Other Professional Equipment and Supplies Merchant Wholesalers,3695,6
+22,4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,13864,4
+23,423510,Metal Service Centers and Other Metal Merchant Wholesalers,13047,6
+24,423520,Coal and Other Mineral and Ore Merchant Wholesalers,817,6
+25,4236,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,41400,4
+26,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",21354,6
+27,423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",4366,6
+28,423690,Other Electronic Parts and Equipment Merchant Wholesalers,15680,6
+29,4237,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",25840,4
+30,423710,Hardware Merchant Wholesalers,6993,6
+31,423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,10581,6
+32,423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,5931,6
+33,423740,Refrigeration Equipment and Supplies Merchant Wholesalers,2335,6
+34,4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",101706,4
+35,423810,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,9190,6
+36,423820,Farm and Garden Machinery and Equipment Merchant Wholesalers,9474,6
+37,423830,Industrial Machinery and Equipment Merchant Wholesalers,39524,6
+38,423840,Industrial Supplies Merchant Wholesalers,20762,6
+39,423850,Service Establishment Equipment and Supplies Merchant Wholesalers,17098,6
+40,423860,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,5658,6
+41,4239,Miscellaneous Durable Goods Merchant Wholesalers,82076,4
+42,423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers,8421,6
+43,423920,Toy and Hobby Goods and Supplies Merchant Wholesalers,5624,6
+44,423930,Recyclable Material Merchant Wholesalers,7364,6
+45,423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",12037,6
+46,423990,Other Miscellaneous Durable Goods Merchant Wholesalers,48630,6
+47,4241,Paper and Paper Product Merchant Wholesalers,12769,4
+48,424110,Printing and Writing Paper Merchant Wholesalers,1006,6
+49,424120,Stationery and Office Supplies Merchant Wholesalers,6878,6
+50,424130,Industrial and Personal Service Paper Merchant Wholesalers,4885,6
+51,4242,Drugs and Druggists' Sundries Merchant Wholesalers,13043,4
+52,424210,Drugs and Druggists' Sundries Merchant Wholesalers,13043,6
+53,4243,"Apparel, Piece Goods, and Notions Merchant Wholesalers",22860,4
+54,424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",4480,6
+55,424320,Men's and Boys' Clothing and Furnishings Merchant Wholesalers,4201,6
+56,424330,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",8500,6
+57,424340,Footwear Merchant Wholesalers,5679,6
+58,4244,Grocery and Related Product Merchant Wholesalers,59050,4
+59,424410,General Line Grocery Merchant Wholesalers,10658,6
+60,424420,Packaged Frozen Food Merchant Wholesalers,1362,6
+61,424430,Dairy Product (except Dried or Canned) Merchant Wholesalers,3443,6
+62,424440,Poultry and Poultry Product Merchant Wholesalers,1578,6
+63,424450,Confectionery Merchant Wholesalers,2742,6
+64,424460,Fish and Seafood Merchant Wholesalers,5766,6
+65,424470,Meat and Meat Product Merchant Wholesalers,3162,6
+66,424480,Fresh Fruit and Vegetable Merchant Wholesalers,6748,6
+67,424490,Other Grocery and Related Products Merchant Wholesalers,23591,6
+68,4245,Farm Product Raw Material Merchant Wholesalers,23171,4
+69,424510,Grain and Field Bean Merchant Wholesalers,7641,6
+70,424520,Livestock Merchant Wholesalers,10218,6
+71,424590,Other Farm Product Raw Material Merchant Wholesalers,5312,6
+72,4246,Chemical and Allied Products Merchant Wholesalers,12933,4
+73,424610,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,2103,6
+74,424690,Other Chemical and Allied Products Merchant Wholesalers,10830,6
+75,4247,Petroleum and Petroleum Products Merchant Wholesalers,14222,4
+76,424710,Petroleum Bulk Stations and Terminals,2292,6
+77,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),11930,6
+78,4248,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",11159,4
+79,424810,Beer and Ale Merchant Wholesalers,2810,6
+80,424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,8349,6
+81,4249,Miscellaneous Nondurable Goods Merchant Wholesalers,103330,4
+82,424910,Farm Supplies Merchant Wholesalers,15489,6
+83,424920,"Book, Periodical, and Newspaper Merchant Wholesalers",9538,6
+84,424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",6068,6
+85,424940,Tobacco and Tobacco Product Merchant Wholesalers,4875,6
+86,424950,"Paint, Varnish, and Supplies Merchant Wholesalers",4216,6
+87,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,63144,6
+88,4251,Wholesale Electronic Markets and Agents and Brokers,815,4
+89,425110,Business to Business Electronic Markets,0,6
+90,425120,Wholesale Trade Agents and Brokers,815,6
+0,44-45,Retail Trade,1800166,5
+1,4411,Automobile Dealers,98044,4
+2,441110,New Car Dealers,62891,6
+3,441120,Used Car Dealers,35153,6
+4,4412,Other Motor Vehicle Dealers,44399,4
+5,441210,Recreational Vehicle Dealers,4136,6
+6,441222,Boat Dealers,11591,6
+7,441228,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",28672,6
+8,4413,"Automotive Parts, Accessories, and Tire Stores",73620,4
+9,441310,Automotive Parts and Accessories Stores,42733,6
+10,441320,Tire Dealers,30887,6
+11,4421,Furniture Stores,44210,4
+12,442110,Furniture Stores,44210,6
+13,4422,Home Furnishings Stores,72744,4
+14,442210,Floor Covering Stores,47042,6
+15,442291,Window Treatment Stores,6131,6
+16,442299,All Other Home Furnishings Stores,19571,6
+17,4431,Electronics and Appliance Stores,80974,4
+18,443141,Household Appliance Stores,11863,6
+19,443142,Electronics Stores,69111,6
+20,4441,Building Material and Supplies Dealers,91754,4
+21,444110,Home Centers,29397,6
+22,444120,Paint and Wallpaper Stores,14273,6
+23,444130,Hardware Stores,22098,6
+24,444190,Other Building Material Dealers,25986,6
+25,4442,Lawn and Garden Equipment and Supplies Stores,17917,4
+26,444210,Outdoor Power Equipment Stores,3953,6
+27,444220,"Nursery, Garden Center, and Farm Supply Stores",13964,6
+28,4451,Grocery Stores,150172,4
+29,445110,Supermarkets and Other Grocery (except Convenience) Stores,93012,6
+30,445120,Convenience Stores,57160,6
+31,4452,Specialty Food Stores,89345,4
+32,445210,Meat Markets,8475,6
+33,445220,Fish and Seafood Markets,3032,6
+34,445230,Fruit and Vegetable Markets,6982,6
+35,445291,Baked Goods Stores,36863,6
+36,445292,Confectionery and Nut Stores,9910,6
+37,445299,All Other Specialty Food Stores,24083,6
+38,4453,"Beer, Wine, and Liquor Stores",33842,4
+39,445310,"Beer, Wine, and Liquor Stores",33842,6
+40,4461,Health and Personal Care Stores,124190,4
+41,446110,Pharmacies and Drug Stores,55661,6
+42,446120,"Cosmetics, Beauty Supplies, and Perfume Stores",19220,6
+43,446130,Optical Goods Stores,18055,6
+44,446191,Food (Health) Supplement Stores,16766,6
+45,446199,All Other Health and Personal Care Stores,14488,6
+46,4471,Gasoline Stations,72071,4
+47,447110,Gasoline Stations with Convenience Stores,1181,6
+48,447190,Other Gasoline Stations,70890,6
+49,4481,Clothing Stores,167083,4
+50,448110,Men's Clothing Stores,11581,6
+51,448120,Women's Clothing Stores,87421,6
+52,448130,Children's and Infants' Clothing Stores,6950,6
+53,448140,Family Clothing Stores,23235,6
+54,448150,Clothing Accessories Stores,18182,6
+55,448190,Other Clothing Stores,19714,6
+56,4482,Shoe Stores,20091,4
+57,448210,Shoe Stores,20091,6
+58,4483,"Jewelry, Luggage, and Leather Goods Stores",41912,4
+59,448310,Jewelry Stores,40163,6
+60,448320,Luggage and Leather Goods Stores,1749,6
+61,4511,"Sporting Goods, Hobby, and Musical Instrument Stores",99990,4
+62,451110,Sporting Goods Stores,52724,6
+63,451120,"Hobby, Toy, and Game Stores",26087,6
+64,451130,"Sewing, Needlework, and Piece Goods Stores",11881,6
+65,451140,Musical Instrument and Supplies Stores,9298,6
+66,4512,Book Stores and News Dealers,15250,4
+67,451211,Book Stores,14321,6
+68,451212,News Dealers and Newsstands,929,6
+69,4522,Department Stores,21600,4
+70,452210,Department Stores,21600,6
+71,4523,"General Merchandise Stores, including Warehouse Clubs and Supercenters",45803,4
+72,452311,Warehouse Clubs and Supercenters,1858,6
+73,452319,All Other General Merchandise Stores,43945,6
+74,4531,Florists,28180,4
+75,453110,Florists,28180,6
+76,4532,"Office Supplies, Stationery, and Gift Stores",60320,4
+77,453210,Office Supplies and Stationery Stores,6056,6
+78,453220,"Gift, Novelty, and Souvenir Stores",54264,6
+79,4533,Used Merchandise Stores,38924,4
+80,453310,Used Merchandise Stores,38924,6
+81,4539,Other Miscellaneous Store Retailers,193279,4
+82,453910,Pet and Pet Supplies Stores,18147,6
+83,453920,Art Dealers,3773,6
+84,453930,Manufactured (Mobile) Home Dealers,3886,6
+85,453991,Tobacco Stores,18373,6
+86,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),149100,6
+87,4541,Electronic Shopping and Mail-Order Houses,23902,4
+88,454110,Electronic Shopping and Mail-Order Houses,23902,6
+89,4542,Vending Machine Operators,9596,4
+90,454210,Vending Machine Operators,9596,6
+91,4543,Direct Selling Establishments,40954,4
+92,454310,Fuel Dealers,13891,6
+93,454390,Other Direct Selling Establishments,27063,6
+0,48-49,Transportation and Warehousing,587261,5
+1,4811,Scheduled Air Transportation,2449,4
+2,481111,Scheduled Passenger Air Transportation,1928,6
+3,481112,Scheduled Freight Air Transportation,521,6
+4,4812,Nonscheduled Air Transportation,2738,4
+5,481211,Nonscheduled Chartered Passenger Air Transportation,205,6
+6,481212,Nonscheduled Chartered Freight Air Transportation,100,6
+7,481219,Other Nonscheduled Air Transportation,2433,6
+8,4821,Rail Transportation,2452,4
+9,482111,Line-Haul Railroads,2412,6
+10,482112,Short Line Railroads,40,6
+11,4831,"Deep Sea, Coastal, and Great Lakes Water Transportation",1355,4
+12,483111,Deep Sea Freight Transportation,742,6
+13,483112,Deep Sea Passenger Transportation,187,6
+14,483113,Coastal and Great Lakes Freight Transportation,426,6
+15,483114,Coastal and Great Lakes Passenger Transportation,0,6
+16,4832,Inland Water Transportation,1332,4
+17,483211,Inland Water Freight Transportation,909,6
+18,483212,Inland Water Passenger Transportation,423,6
+19,4841,General Freight Trucking,193736,4
+20,484110,"General Freight Trucking, Local",152292,6
+21,484121,"General Freight Trucking, Long-Distance, Truckload",40849,6
+22,484122,"General Freight Trucking, Long-Distance, Less Than Truckload",595,6
+23,4842,Specialized Freight Trucking,24061,4
+24,484210,Used Household and Office Goods Moving,8501,6
+25,484220,"Specialized Freight (except Used Goods) Trucking, Local",11094,6
+26,484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",4466,6
+27,4851,Urban Transit Systems,7559,4
+28,485111,Mixed Mode Transit Systems,5988,6
+29,485112,Commuter Rail Systems,190,6
+30,485113,Bus and Other Motor Vehicle Transit Systems,1288,6
+31,485119,Other Urban Transit Systems,93,6
+32,4852,Interurban and Rural Bus Transportation,1054,4
+33,485210,Interurban and Rural Bus Transportation,1054,6
+34,4853,Taxi and Limousine Service,28128,4
+35,485310,Taxi Service,10917,6
+36,485320,Limousine Service,17211,6
+37,4854,School and Employee Bus Transportation,2450,4
+38,485410,School and Employee Bus Transportation,2450,6
+39,4855,Charter Bus Industry,3651,4
+40,485510,Charter Bus Industry,3651,6
+41,4859,Other Transit and Ground Passenger Transportation,5359,4
+42,485991,Special Needs Transportation,0,6
+43,485999,All Other Transit and Ground Passenger Transportation,5359,6
+44,4861,Pipeline Transportation of Crude Oil,763,4
+45,486110,Pipeline Transportation of Crude Oil,763,6
+46,4862,Pipeline Transportation of Natural Gas,1795,4
+47,486210,Pipeline Transportation of Natural Gas,1795,6
+48,4869,Other Pipeline Transportation,557,4
+49,486910,Pipeline Transportation of Refined Petroleum Products,354,6
+50,486990,All Other Pipeline Transportation,203,6
+51,4871,"Scenic and Sightseeing Transportation, Land",362,4
+52,487110,"Scenic and Sightseeing Transportation, Land",362,6
+53,4872,"Scenic and Sightseeing Transportation, Water",518,4
+54,487210,"Scenic and Sightseeing Transportation, Water",518,6
+55,4879,"Scenic and Sightseeing Transportation, Other",359,4
+56,487990,"Scenic and Sightseeing Transportation, Other",359,6
+57,4881,Support Activities for Air Transportation,18283,4
+58,488111,Air Traffic Control,989,6
+59,488119,Other Airport Operations,13383,6
+60,488190,Other Support Activities for Air Transportation,3911,6
+61,4882,Support Activities for Rail Transportation,17452,4
+62,488210,Support Activities for Rail Transportation,17452,6
+63,4883,Support Activities for Water Transportation,4220,4
+64,488310,Port and Harbor Operations,219,6
+65,488320,Marine Cargo Handling,999,6
+66,488330,Navigational Services to Shipping,1616,6
+67,488390,Other Support Activities for Water Transportation,1386,6
+68,4884,Support Activities for Road Transportation,29325,4
+69,488410,Motor Vehicle Towing,23248,6
+70,488490,Other Support Activities for Road Transportation,6077,6
+71,4885,Freight Transportation Arrangement,40642,4
+72,488510,Freight Transportation Arrangement,40642,6
+73,4889,Other Support Activities for Transportation,127308,4
+74,488991,Packing and Crating,1439,6
+75,488999,All Other Support Activities for Transportation,125869,6
+76,4911,Postal Service,21675,4
+77,491110,Postal Service,21675,6
+78,4921,Couriers and Express Delivery Services,7350,4
+79,492110,Couriers and Express Delivery Services,7350,6
+80,4922,Local Messengers and Local Delivery,4467,4
+81,492210,Local Messengers and Local Delivery,4467,6
+82,4931,Warehousing and Storage,35861,4
+83,493110,General Warehousing and Storage,23611,6
+84,493120,Refrigerated Warehousing and Storage,1327,6
+85,493130,Farm Product Warehousing and Storage,911,6
+86,493190,Other Warehousing and Storage,10012,6
+0,51,Information,355030,2
+1,5111,"Newspaper, Periodical, Book, and Directory Publishers",44575,4
+2,511110,Newspaper Publishers,11560,6
+3,511120,Periodical Publishers,5202,6
+4,511130,Book Publishers,5488,6
+5,511140,Directory and Mailing List Publishers,578,6
+6,511191,Greeting Card Publishers,346,6
+7,511199,All Other Publishers,21401,6
+8,5112,Software Publishers,23187,4
+9,511210,Software Publishers,23187,6
+10,5121,Motion Picture and Video Industries,75234,4
+11,512110,Motion Picture and Video Production,27812,6
+12,512120,Motion Picture and Video Distribution,29767,6
+13,512131,Motion Picture Theaters (except Drive-Ins),6347,6
+14,512132,Drive-In Motion Picture Theaters,124,6
+15,512191,Teleproduction and Other Postproduction Services,3748,6
+16,512199,Other Motion Picture and Video Industries,7436,6
+17,5122,Sound Recording Industries,13040,4
+18,512230,Music Publishers,713,6
+19,512240,Sound Recording Studios,4755,6
+20,512250,Record Production and Distribution,7235,6
+21,512290,Other Sound Recording Industries,337,6
+22,5151,Radio and Television Broadcasting,17423,4
+23,515111,Radio Networks,9935,6
+24,515112,Radio Stations,3202,6
+25,515120,Television Broadcasting,4286,6
+26,5152,Cable and Other Subscription Programming,7320,4
+27,515210,Cable and Other Subscription Programming,7320,6
+28,5173,Wired and Wireless Telecommunications Carriers,45711,4
+29,517311,Wired Telecommunications Carriers,15548,6
+30,517312,Wireless Telecommunications Carriers (except Satellite),30163,6
+31,5174,Satellite Telecommunications,193,4
+32,517410,Satellite Telecommunications,193,6
+33,5179,Other Telecommunications,73292,4
+34,517911,Telecommunications Resellers,19279,6
+35,517919,All Other Telecommunications,54013,6
+36,5182,"Data Processing, Hosting, and Related Services",20952,4
+37,518210,"Data Processing, Hosting, and Related Services",20952,6
+38,5191,Other Information Services,34103,4
+39,519110,News Syndicates,881,6
+40,519120,Libraries and Archives,26072,6
+41,519130,Internet Publishing and Broadcasting and Web Search Portals,1513,6
+42,519190,All Other Information Services,5637,6
+0,52,Finance and Insurance,791029,2
+1,5211,Monetary Authorities-Central Bank,40,4
+2,521110,Monetary Authorities-Central Bank,40,6
+3,5221,Depository Credit Intermediation,105778,4
+4,522110,Commercial Banking,82917,6
+5,522120,Savings Institutions,6998,6
+6,522130,Credit Unions,15863,6
+7,522190,Other Depository Credit Intermediation,0,6
+8,5222,Nondepository Credit Intermediation,42813,4
+9,522210,Credit Card Issuing,6,6
+10,522220,Sales Financing,2441,6
+11,522291,Consumer Lending,16254,6
+12,522292,Real Estate Credit,6364,6
+13,522293,International Trade Financing,1690,6
+14,522294,Secondary Market Financing,6,6
+15,522298,All Other Nondepository Credit Intermediation,16052,6
+16,5223,Activities Related to Credit Intermediation,68976,4
+17,522310,Mortgage and Nonmortgage Loan Brokers,13108,6
+18,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",28461,6
+19,522390,Other Activities Related to Credit Intermediation,27407,6
+20,5231,Securities and Commodity Contracts Intermediation and Brokerage,40177,4
+21,523110,Investment Banking and Securities Dealing,2668,6
+22,523120,Securities Brokerage,33879,6
+23,523130,Commodity Contracts Dealing,2981,6
+24,523140,Commodity Contracts Brokerage,649,6
+25,5232,Securities and Commodity Exchanges,379,4
+26,523210,Securities and Commodity Exchanges,379,6
+27,5239,Other Financial Investment Activities,243429,4
+28,523910,Miscellaneous Intermediation,142131,6
+29,523920,Portfolio Management,10242,6
+30,523930,Investment Advice,67414,6
+31,523991,"Trust, Fiduciary, and Custody Activities",21330,6
+32,523999,Miscellaneous Financial Investment Activities,2312,6
+33,5241,Insurance Carriers,34106,4
+34,524113,Direct Life Insurance Carriers,7577,6
+35,524114,Direct Health and Medical Insurance Carriers,5149,6
+36,524126,Direct Property and Casualty Insurance Carriers,12956,6
+37,524127,Direct Title Insurance Carriers,5240,6
+38,524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers",3051,6
+39,524130,Reinsurance Carriers,133,6
+40,5242,"Agencies, Brokerages, and Other Insurance Related Activities",222804,4
+41,524210,Insurance Agencies and Brokerages,211366,6
+42,524291,Claims Adjusting,4171,6
+43,524292,Third Party Administration of Insurance and Pension Funds,853,6
+44,524298,All Other Insurance Related Activities,6414,6
+45,5251,Insurance and Employee Benefit Funds,1767,4
+46,525110,Pension Funds,857,6
+47,525120,Health and Welfare Funds,832,6
+48,525190,Other Insurance Funds,78,6
+49,5259,Other Investment Pools and Funds,30760,4
+50,525910,Open-End Investment Funds,16191,6
+51,525920,"Trusts, Estates, and Agency Accounts",8094,6
+52,525990,Other Financial Vehicles,6475,6
+0,53,Real Estate and Rental and Leasing,863427,2
+1,5311,Lessors of Real Estate,205817,4
+2,531110,Lessors of Residential Buildings and Dwellings,126514,6
+3,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),30001,6
+4,531130,Lessors of Miniwarehouses and Self-Storage Units,22783,6
+5,531190,Lessors of Other Real Estate Property,26519,6
+6,5312,Offices of Real Estate Agents and Brokers,356184,4
+7,531210,Offices of Real Estate Agents and Brokers,356184,6
+8,5313,Activities Related to Real Estate,179627,4
+9,531311,Residential Property Managers,5911,6
+10,531312,Nonresidential Property Managers,146571,6
+11,531320,Offices of Real Estate Appraisers,21542,6
+12,531390,Other Activities Related to Real Estate,5603,6
+13,5321,Automotive Equipment Rental and Leasing,37141,4
+14,532111,Passenger Car Rental,15108,6
+15,532112,Passenger Car Leasing,896,6
+16,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",21137,6
+17,5322,Consumer Goods Rental,31642,4
+18,532210,Consumer Electronics and Appliances Rental,6215,6
+19,532281,Formal Wear and Costume Rental,1817,6
+20,532282,Video Tape and Disc Rental,4890,6
+21,532283,Home Health Equipment Rental,2344,6
+22,532284,Recreational Goods Rental,2053,6
+23,532289,All Other Consumer Goods Rental,14323,6
+24,5323,General Rental Centers,855,4
+25,532310,General Rental Centers,855,6
+26,5324,Commercial and Industrial Machinery and Equipment Rental and Leasing,48593,4
+27,532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",1282,6
+28,532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",5535,6
+29,532420,Office Machinery and Equipment Rental and Leasing,614,6
+30,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,41162,6
+31,5331,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),3568,4
+32,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),3568,6
+0,54,"Professional, Scientific, and Technical Services",2196583,2
+1,5411,Legal Services,350012,4
+2,541110,Offices of Lawyers,326978,6
+3,541120,Offices of Notaries,6278,6
+4,541191,Title Abstract and Settlement Offices,11359,6
+5,541199,All Other Legal Services,5397,6
+6,5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",183077,4
+7,541211,Offices of Certified Public Accountants,69470,6
+8,541213,Tax Preparation Services,61932,6
+9,541214,Payroll Services,3003,6
+10,541219,Other Accounting Services,48672,6
+11,5413,"Architectural, Engineering, and Related Services",254611,4
+12,541310,Architectural Services,38936,6
+13,541320,Landscape Architectural Services,83712,6
+14,541330,Engineering Services,96126,6
+15,541340,Drafting Services,1674,6
+16,541350,Building Inspection Services,7579,6
+17,541360,Geophysical Surveying and Mapping Services,0,6
+18,541370,Surveying and Mapping (except Geophysical) Services,12965,6
+19,541380,Testing Laboratories,13619,6
+20,5414,Specialized Design Services,73888,4
+21,541410,Interior Design Services,34832,6
+22,541420,Industrial Design Services,1805,6
+23,541430,Graphic Design Services,35456,6
+24,541490,Other Specialized Design Services,1795,6
+25,5415,Computer Systems Design and Related Services,201660,4
+26,541511,Custom Computer Programming Services,107317,6
+27,541512,Computer Systems Design Services,88191,6
+28,541513,Computer Facilities Management Services,1141,6
+29,541519,Other Computer Related Services,5011,6
+30,5416,"Management, Scientific, and Technical Consulting Services",645890,4
+31,541611,Administrative Management and General Management Consulting Services,185649,6
+32,541612,Human Resources Consulting Services,14128,6
+33,541613,Marketing Consulting Services,58521,6
+34,541614,"Process, Physical Distribution, and Logistics Consulting Services",3185,6
+35,541618,Other Management Consulting Services,318388,6
+36,541620,Environmental Consulting Services,23240,6
+37,541690,Other Scientific and Technical Consulting Services,42779,6
+38,5417,Scientific Research and Development Services,43369,4
+39,541713,Research and Development in Nanotechnology,0,6
+40,541714,Research and Development in Biotechnology (except Nanobiotechnology),4471,6
+41,541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",23662,6
+42,541720,Research and Development in the Social Sciences and Humanities,15236,6
+43,5418,"Advertising, Public Relations, and Related Services",63431,4
+44,541810,Advertising Agencies,23515,6
+45,541820,Public Relations Agencies,16073,6
+46,541830,Media Buying Agencies,778,6
+47,541840,Media Representatives,3573,6
+48,541850,Outdoor Advertising,2534,6
+49,541860,Direct Mail Advertising,4880,6
+50,541870,Advertising Material Distribution Services,1033,6
+51,541890,Other Services Related to Advertising,11045,6
+52,5419,"Other Professional, Scientific, and Technical Services",380645,4
+53,541910,Marketing Research and Public Opinion Polling,12935,6
+54,541921,"Photography Studios, Portrait",86616,6
+55,541922,Commercial Photography,15989,6
+56,541930,Translation and Interpretation Services,6081,6
+57,541940,Veterinary Services,46845,6
+58,541990,"All Other Professional, Scientific, and Technical Services",212179,6
+0,55,Management of Companies and Enterprises,71170,2
+1,5511,Management of Companies and Enterprises,71170,4
+2,551111,Offices of Bank Holding Companies,2172,6
+3,551112,Offices of Other Holding Companies,68998,6
+4,551114,"Corporate, Subsidiary, and Regional Managing Offices",0,6
+0,56,Administrative and Support and Waste Management and Remediation Services,1755832,2
+1,5611,Office Administrative Services,153257,4
+2,561110,Office Administrative Services,153257,6
+3,5612,Facilities Support Services,4731,4
+4,561210,Facilities Support Services,4731,6
+5,5613,Employment Services,60885,4
+6,561311,Employment Placement Agencies,31221,6
+7,561312,Executive Search Services,8872,6
+8,561320,Temporary Help Services,20198,6
+9,561330,Professional Employer Organizations,594,6
+10,5614,Business Support Services,224448,4
+11,561410,Document Preparation Services,4182,6
+12,561421,Telephone Answering Services,5675,6
+13,561422,Telemarketing Bureaus and Other Contact Centers,1286,6
+14,561431,Private Mail Centers,7372,6
+15,561439,Other Business Service Centers (including Copy Shops),1317,6
+16,561440,Collection Agencies,4840,6
+17,561450,Credit Bureaus,1236,6
+18,561491,Repossession Services,2043,6
+19,561492,Court Reporting and Stenotype Services,6941,6
+20,561499,All Other Business Support Services,189556,6
+21,5615,Travel Arrangement and Reservation Services,60452,4
+22,561510,Travel Agencies,45479,6
+23,561520,Tour Operators,10284,6
+24,561591,Convention and Visitors Bureaus,1264,6
+25,561599,All Other Travel Arrangement and Reservation Services,3425,6
+26,5616,Investigation and Security Services,56524,4
+27,561611,Investigation Services,9844,6
+28,561612,Security Guards and Patrol Services,17614,6
+29,561613,Armored Car Services,3063,6
+30,561621,Security Systems Services (except Locksmiths),15695,6
+31,561622,Locksmiths,10308,6
+32,5617,Services to Buildings and Dwellings,396154,4
+33,561710,Exterminating and Pest Control Services,28060,6
+34,561720,Janitorial Services,104731,6
+35,561730,Landscaping Services,138756,6
+36,561740,Carpet and Upholstery Cleaning Services,15761,6
+37,561790,Other Services to Buildings and Dwellings,108846,6
+38,5619,Other Support Services,754240,4
+39,561910,Packaging and Labeling Services,2968,6
+40,561920,Convention and Trade Show Organizers,3593,6
+41,561990,All Other Support Services,747679,6
+42,5621,Waste Collection,2375,4
+43,562111,Solid Waste Collection,1845,6
+44,562112,Hazardous Waste Collection,260,6
+45,562119,Other Waste Collection,270,6
+46,5622,Waste Treatment and Disposal,14351,4
+47,562211,Hazardous Waste Treatment and Disposal,3808,6
+48,562212,Solid Waste Landfill,6037,6
+49,562213,Solid Waste Combustors and Incinerators,37,6
+50,562219,Other Nonhazardous Waste Treatment and Disposal,4469,6
+51,5629,Remediation and Other Waste Management Services,28415,4
+52,562910,Remediation Services,2908,6
+53,562920,Materials Recovery Facilities,11933,6
+54,562991,Septic Tank and Related Services,12350,6
+55,562998,All Other Miscellaneous Waste Management Services,1224,6
+0,61,Educational Services,422162,2
+1,6111,Elementary and Secondary Schools,213415,4
+2,611110,Elementary and Secondary Schools,213415,6
+3,6112,Junior Colleges,4988,4
+4,611210,Junior Colleges,4988,6
+5,6113,"Colleges, Universities, and Professional Schools",37550,4
+6,611310,"Colleges, Universities, and Professional Schools",37550,6
+7,6114,Business Schools and Computer and Management Training,5147,4
+8,611410,Business and Secretarial Schools,899,6
+9,611420,Computer Training,3885,6
+10,611430,Professional and Management Development Training,363,6
+11,6115,Technical and Trade Schools,13413,4
+12,611511,Cosmetology and Barber Schools,2790,6
+13,611512,Flight Training,1227,6
+14,611513,Apprenticeship Training,432,6
+15,611519,Other Technical and Trade Schools,8964,6
+16,6116,Other Schools and Instruction,137272,4
+17,611610,Fine Arts Schools,27749,6
+18,611620,Sports and Recreation Instruction,44305,6
+19,611630,Language Schools,2444,6
+20,611691,Exam Preparation and Tutoring,8269,6
+21,611692,Automobile Driving Schools,5457,6
+22,611699,All Other Miscellaneous Schools and Instruction,49048,6
+23,6117,Educational Support Services,10377,4
+24,611710,Educational Support Services,10377,6
+0,62,Health Care and Social Assistance,1683584,2
+1,6211,Offices of Physicians,469577,4
+2,621111,Offices of Physicians (except Mental Health Specialists),448866,6
+3,621112,"Offices of Physicians, Mental Health Specialists",20711,6
+4,6212,Offices of Dentists,208941,4
+5,621210,Offices of Dentists,208941,6
+6,6213,Offices of Other Health Practitioners,284215,4
+7,621310,Offices of Chiropractors,65646,6
+8,621320,Offices of Optometrists,31689,6
+9,621330,Offices of Mental Health Practitioners (except Physicians),34545,6
+10,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",37438,6
+11,621391,Offices of Podiatrists,14643,6
+12,621399,Offices of All Other Miscellaneous Health Practitioners,100254,6
+13,6214,Outpatient Care Centers,70237,4
+14,621410,Family Planning Centers,5193,6
+15,621420,Outpatient Mental Health and Substance Abuse Centers,11733,6
+16,621491,HMO Medical Centers,1190,6
+17,621492,Kidney Dialysis Centers,9986,6
+18,621493,Freestanding Ambulatory Surgical and Emergency Centers,3289,6
+19,621498,All Other Outpatient Care Centers,38846,6
+20,6215,Medical and Diagnostic Laboratories,17192,4
+21,621511,Medical Laboratories,14026,6
+22,621512,Diagnostic Imaging Centers,3166,6
+23,6216,Home Health Care Services,49952,4
+24,621610,Home Health Care Services,49952,6
+25,6219,Other Ambulatory Health Care Services,152397,4
+26,621910,Ambulance Services,6912,6
+27,621991,Blood and Organ Banks,9650,6
+28,621999,All Other Miscellaneous Ambulatory Health Care Services,135835,6
+29,6221,General Medical and Surgical Hospitals,32458,4
+30,622110,General Medical and Surgical Hospitals,32458,6
+31,6222,Psychiatric and Substance Abuse Hospitals,4470,4
+32,622210,Psychiatric and Substance Abuse Hospitals,4470,6
+33,6223,Specialty (except Psychiatric and Substance Abuse) Hospitals,2649,4
+34,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,2649,6
+35,6231,Nursing Care Facilities (Skilled Nursing Facilities),35682,4
+36,623110,Nursing Care Facilities (Skilled Nursing Facilities),35682,6
+37,6232,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",8054,4
+38,623210,Residential Intellectual and Developmental Disability Facilities,2077,6
+39,623220,Residential Mental Health and Substance Abuse Facilities,5977,6
+40,6233,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,19591,4
+41,623311,Continuing Care Retirement Communities,11489,6
+42,623312,Assisted Living Facilities for the Elderly,8102,6
+43,6239,Other Residential Care Facilities,16329,4
+44,623990,Other Residential Care Facilities,16329,6
+45,6241,Individual and Family Services,179625,4
+46,624110,Child and Youth Services,10913,6
+47,624120,Services for the Elderly and Persons with Disabilities,21079,6
+48,624190,Other Individual and Family Services,147633,6
+49,6242,"Community Food and Housing, and Emergency and Other Relief Services",6902,4
+50,624210,Community Food Services,1153,6
+51,624221,Temporary Shelters,1927,6
+52,624229,Other Community Housing Services,251,6
+53,624230,Emergency and Other Relief Services,3571,6
+54,6243,Vocational Rehabilitation Services,12800,4
+55,624310,Vocational Rehabilitation Services,12800,6
+56,6244,Child Day Care Services,112513,4
+57,624410,Child Day Care Services,112513,6
+0,71,"Arts, Entertainment, and Recreation",363300,2
+1,7111,Performing Arts Companies,32857,4
+2,711110,Theater Companies and Dinner Theaters,3537,6
+3,711120,Dance Companies,180,6
+4,711130,Musical Groups and Artists,9359,6
+5,711190,Other Performing Arts Companies,19781,6
+6,7112,Spectator Sports,25356,4
+7,711211,Sports Teams and Clubs,6174,6
+8,711212,Racetracks,4350,6
+9,711219,Other Spectator Sports,14832,6
+10,7113,"Promoters of Performing Arts, Sports, and Similar Events",10008,4
+11,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",8176,6
+12,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",1832,6
+13,7114,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",9014,4
+14,711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",9014,6
+15,7115,"Independent Artists, Writers, and Performers",50714,4
+16,711510,"Independent Artists, Writers, and Performers",50714,6
+17,7121,"Museums, Historical Sites, and Similar Institutions",40378,4
+18,712110,Museums,24493,6
+19,712120,Historical Sites,3361,6
+20,712130,Zoos and Botanical Gardens,1803,6
+21,712190,Nature Parks and Other Similar Institutions,10721,6
+22,7131,Amusement Parks and Arcades,4760,4
+23,713110,Amusement and Theme Parks,2418,6
+24,713120,Amusement Arcades,2342,6
+25,7132,Gambling Industries,1160,4
+26,713210,Casinos (except Casino Hotels),621,6
+27,713290,Other Gambling Industries,539,6
+28,7139,Other Amusement and Recreation Industries,189053,4
+29,713910,Golf Courses and Country Clubs,15816,6
+30,713920,Skiing Facilities,327,6
+31,713930,Marinas,7439,6
+32,713940,Fitness and Recreational Sports Centers,134100,6
+33,713950,Bowling Centers,5088,6
+34,713990,All Other Amusement and Recreation Industries,26283,6
+0,72,Accommodation and Food Services,901005,2
+1,7211,Traveler Accommodation,117365,4
+2,721110,Hotels (except Casino Hotels) and Motels,92841,6
+3,721120,Casino Hotels,1789,6
+4,721191,Bed-and-Breakfast Inns,17553,6
+5,721199,All Other Traveler Accommodation,5182,6
+6,7212,RV (Recreational Vehicle) Parks and Recreational Camps,15462,4
+7,721211,RV (Recreational Vehicle) Parks and Campgrounds,10874,6
+8,721214,Recreational and Vacation Camps (except Campgrounds),4588,6
+9,7213,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",2539,4
+10,721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",2539,6
+11,7223,Special Food Services,37110,4
+12,722310,Food Service Contractors,1833,6
+13,722320,Caterers,30123,6
+14,722330,Mobile Food Services,5154,6
+15,7224,Drinking Places (Alcoholic Beverages),73722,4
+16,722410,Drinking Places (Alcoholic Beverages),73722,6
+17,7225,Restaurants and Other Eating Places,654807,4
+18,722511,Full-Service Restaurants,364215,6
+19,722513,Limited-Service Restaurants,286827,6
+20,722514,"Cafeterias, Grill Buffets, and Buffets",2694,6
+21,722515,Snack and Nonalcoholic Beverage Bars,1071,6
+0,81,Other Services (except Public Administration),1879818,2
+1,8111,Automotive Repair and Maintenance,309877,4
+2,811111,General Automotive Repair,153425,6
+3,811112,Automotive Exhaust System Repair,6304,6
+4,811113,Automotive Transmission Repair,7681,6
+5,811118,Other Automotive Mechanical and Electrical Repair and Maintenance,29784,6
+6,811121,"Automotive Body, Paint, and Interior Repair and Maintenance",50260,6
+7,811122,Automotive Glass Replacement Shops,6627,6
+8,811191,Automotive Oil Change and Lubrication Shops,6458,6
+9,811192,Car Washes,32336,6
+10,811198,All Other Automotive Repair and Maintenance,17002,6
+11,8112,Electronic and Precision Equipment Repair and Maintenance,36556,4
+12,811211,Consumer Electronics Repair and Maintenance,5422,6
+13,811212,Computer and Office Machine Repair and Maintenance,13805,6
+14,811213,Communication Equipment Repair and Maintenance,1237,6
+15,811219,Other Electronic and Precision Equipment Repair and Maintenance,16092,6
+16,8113,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,44172,4
+17,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,44172,6
+18,8114,Personal and Household Goods Repair and Maintenance,129861,4
+19,811411,Home and Garden Equipment Repair and Maintenance,9410,6
+20,811412,Appliance Repair and Maintenance,71774,6
+21,811420,Reupholstery and Furniture Repair,11845,6
+22,811430,Footwear and Leather Goods Repair,3394,6
+23,811490,Other Personal and Household Goods Repair and Maintenance,33438,6
+24,8121,Personal Care Services,385555,4
+25,812111,Barber Shops,35769,6
+26,812112,Beauty Salons,235695,6
+27,812113,Nail Salons,59508,6
+28,812191,Diet and Weight Reducing Centers,2610,6
+29,812199,Other Personal Care Services,51973,6
+30,8122,Death Care Services,35206,4
+31,812210,Funeral Homes and Funeral Services,22581,6
+32,812220,Cemeteries and Crematories,12625,6
+33,8123,Drycleaning and Laundry Services,40373,4
+34,812310,Coin-Operated Laundries and Drycleaners,12927,6
+35,812320,Drycleaning and Laundry Services (except Coin-Operated),24386,6
+36,812331,Linen Supply,1948,6
+37,812332,Industrial Launderers,1112,6
+38,8129,Other Personal Services,148548,4
+39,812910,Pet Care (except Veterinary) Services,44609,6
+40,812921,Photofinishing Laboratories (except One-Hour),4423,6
+41,812922,One-Hour Photofinishing,0,6
+42,812930,Parking Lots and Garages,6029,6
+43,812990,All Other Personal Services,93487,6
+44,8131,Religious Organizations,353937,4
+45,813110,Religious Organizations,353937,6
+46,8132,Grantmaking and Giving Services,8372,4
+47,813211,Grantmaking Foundations,6783,6
+48,813212,Voluntary Health Organizations,1133,6
+49,813219,Other Grantmaking and Giving Services,456,6
+50,8133,Social Advocacy Organizations,52546,4
+51,813311,Human Rights Organizations,0,6
+52,813312,"Environment, Conservation and Wildlife Organizations",3870,6
+53,813319,Other Social Advocacy Organizations,48676,6
+54,8134,Civic and Social Organizations,179147,4
+55,813410,Civic and Social Organizations,179147,6
+56,8139,"Business, Professional, Labor, Political, and Similar Organizations",155668,4
+57,813910,Business Associations,33657,6
+58,813920,Professional Organizations,32805,6
+59,813930,Labor Unions and Similar Labor Organizations,16044,6
+60,813940,Political Organizations,3231,6
+61,813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",69931,6
+62,8141,Private Households,0,4
+63,814110,Private Households,0,6
+0,92,Public Administration,259799,2
+1,9211,"Executive, Legislative, and Other General Government Support",77838,4
+2,921110,Executive Offices,43026,6
+3,921120,Legislative Bodies,9580,6
+4,921130,Public Finance Activities,7524,6
+5,921140,"Executive and Legislative Offices, Combined",354,6
+6,921150,American Indian and Alaska Native Tribal Governments,1096,6
+7,921190,Other General Government Support,16258,6
+8,9221,"Justice, Public Order, and Safety Activities",86922,4
+9,922110,Courts,16303,6
+10,922120,Police Protection,20010,6
+11,922130,Legal Counsel and Prosecution,4211,6
+12,922140,Correctional Institutions,5361,6
+13,922150,Parole Offices and Probation Offices,2018,6
+14,922160,Fire Protection,35791,6
+15,922190,"Other Justice, Public Order, and Safety Activities",3228,6
+16,9231,Administration of Human Resource Programs,21613,4
+17,923110,Administration of Education Programs,1964,6
+18,923120,Administration of Public Health Programs,8355,6
+19,923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",9490,6
+20,923140,Administration of Veterans' Affairs,1804,6
+21,9241,Administration of Environmental Quality Programs,21807,4
+22,924110,Administration of Air and Water Resource and Solid Waste Management Programs,6559,6
+23,924120,Administration of Conservation Programs,15248,6
+24,9251,"Administration of Housing Programs, Urban Planning, and Community Development",8717,4
+25,925110,Administration of Housing Programs,6226,6
+26,925120,Administration of Urban Planning and Community and Rural Development,2491,6
+27,9261,Administration of Economic Programs,25292,4
+28,926110,Administration of General Economic Programs,2597,6
+29,926120,Regulation and Administration of Transportation Programs,11023,6
+30,926130,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",1556,6
+31,926140,Regulation of Agricultural Marketing and Commodities,6365,6
+32,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",3751,6
+33,9271,Space Research and Technology,138,4
+34,927110,Space Research and Technology,138,6
+35,9281,National Security and International Affairs,17472,4
+36,928110,National Security,15308,6
+37,928120,International Affairs,2164,6

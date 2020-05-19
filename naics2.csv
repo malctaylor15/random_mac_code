@@ -1,0 +1,481 @@
+,Code,Industry Title,Number of Business Establishments
+0,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+1,21,Mining,32231.0
+2,22,Utilities,44408.0
+3,23,Construction,1484279.0
+4,31,Manufacturing,212910.0
+5,32,Manufacturing,212910.0
+6,33,Manufacturing,212910.0
+7,42,Wholesale Trade,697579.0
+8,44,Retail Trade,900083.0
+9,45,Retail Trade,900083.0
+10,48,Transportation and Warehousing,293630.5
+11,49,Transportation and Warehousing,293630.5
+12,51,Information,355030.0
+13,52,Finance and Insurance,791029.0
+14,53,Real Estate Rental and Leasing,863427.0
+15,54,"Professional, Scientific, and Technical Services",2196583.0
+16,55,Management of Companies and Enterprises,71170.0
+17,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+18,61,Educational Services,422162.0
+19,62,Health Care and Social Assistance,1683584.0
+20,71,"Arts, Entertainment, and Recreation",363300.0
+21,72,Accommodation and Food Services,901005.0
+22,81,Other Services (except Public Administration),1879818.0
+23,92,Public Administration,259799.0
+24,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+25,21,Mining,32231.0
+26,22,Utilities,44408.0
+27,23,Construction,1484279.0
+28,31,Manufacturing,212910.0
+29,32,Manufacturing,212910.0
+30,33,Manufacturing,212910.0
+31,42,Wholesale Trade,697579.0
+32,44,Retail Trade,900083.0
+33,45,Retail Trade,900083.0
+34,48,Transportation and Warehousing,293630.5
+35,49,Transportation and Warehousing,293630.5
+36,51,Information,355030.0
+37,52,Finance and Insurance,791029.0
+38,53,Real Estate Rental and Leasing,863427.0
+39,54,"Professional, Scientific, and Technical Services",2196583.0
+40,55,Management of Companies and Enterprises,71170.0
+41,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+42,61,Educational Services,422162.0
+43,62,Health Care and Social Assistance,1683584.0
+44,71,"Arts, Entertainment, and Recreation",363300.0
+45,72,Accommodation and Food Services,901005.0
+46,81,Other Services (except Public Administration),1879818.0
+47,92,Public Administration,259799.0
+48,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+49,21,Mining,32231.0
+50,22,Utilities,44408.0
+51,23,Construction,1484279.0
+52,31,Manufacturing,212910.0
+53,32,Manufacturing,212910.0
+54,33,Manufacturing,212910.0
+55,42,Wholesale Trade,697579.0
+56,44,Retail Trade,900083.0
+57,45,Retail Trade,900083.0
+58,48,Transportation and Warehousing,293630.5
+59,49,Transportation and Warehousing,293630.5
+60,51,Information,355030.0
+61,52,Finance and Insurance,791029.0
+62,53,Real Estate Rental and Leasing,863427.0
+63,54,"Professional, Scientific, and Technical Services",2196583.0
+64,55,Management of Companies and Enterprises,71170.0
+65,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+66,61,Educational Services,422162.0
+67,62,Health Care and Social Assistance,1683584.0
+68,71,"Arts, Entertainment, and Recreation",363300.0
+69,72,Accommodation and Food Services,901005.0
+70,81,Other Services (except Public Administration),1879818.0
+71,92,Public Administration,259799.0
+72,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+73,21,Mining,32231.0
+74,22,Utilities,44408.0
+75,23,Construction,1484279.0
+76,31,Manufacturing,212910.0
+77,32,Manufacturing,212910.0
+78,33,Manufacturing,212910.0
+79,42,Wholesale Trade,697579.0
+80,44,Retail Trade,900083.0
+81,45,Retail Trade,900083.0
+82,48,Transportation and Warehousing,293630.5
+83,49,Transportation and Warehousing,293630.5
+84,51,Information,355030.0
+85,52,Finance and Insurance,791029.0
+86,53,Real Estate Rental and Leasing,863427.0
+87,54,"Professional, Scientific, and Technical Services",2196583.0
+88,55,Management of Companies and Enterprises,71170.0
+89,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+90,61,Educational Services,422162.0
+91,62,Health Care and Social Assistance,1683584.0
+92,71,"Arts, Entertainment, and Recreation",363300.0
+93,72,Accommodation and Food Services,901005.0
+94,81,Other Services (except Public Administration),1879818.0
+95,92,Public Administration,259799.0
+96,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+97,21,Mining,32231.0
+98,22,Utilities,44408.0
+99,23,Construction,1484279.0
+100,31,Manufacturing,212910.0
+101,32,Manufacturing,212910.0
+102,33,Manufacturing,212910.0
+103,42,Wholesale Trade,697579.0
+104,44,Retail Trade,900083.0
+105,45,Retail Trade,900083.0
+106,48,Transportation and Warehousing,293630.5
+107,49,Transportation and Warehousing,293630.5
+108,51,Information,355030.0
+109,52,Finance and Insurance,791029.0
+110,53,Real Estate Rental and Leasing,863427.0
+111,54,"Professional, Scientific, and Technical Services",2196583.0
+112,55,Management of Companies and Enterprises,71170.0
+113,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+114,61,Educational Services,422162.0
+115,62,Health Care and Social Assistance,1683584.0
+116,71,"Arts, Entertainment, and Recreation",363300.0
+117,72,Accommodation and Food Services,901005.0
+118,81,Other Services (except Public Administration),1879818.0
+119,92,Public Administration,259799.0
+120,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+121,21,Mining,32231.0
+122,22,Utilities,44408.0
+123,23,Construction,1484279.0
+124,31,Manufacturing,212910.0
+125,32,Manufacturing,212910.0
+126,33,Manufacturing,212910.0
+127,42,Wholesale Trade,697579.0
+128,44,Retail Trade,900083.0
+129,45,Retail Trade,900083.0
+130,48,Transportation and Warehousing,293630.5
+131,49,Transportation and Warehousing,293630.5
+132,51,Information,355030.0
+133,52,Finance and Insurance,791029.0
+134,53,Real Estate Rental and Leasing,863427.0
+135,54,"Professional, Scientific, and Technical Services",2196583.0
+136,55,Management of Companies and Enterprises,71170.0
+137,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+138,61,Educational Services,422162.0
+139,62,Health Care and Social Assistance,1683584.0
+140,71,"Arts, Entertainment, and Recreation",363300.0
+141,72,Accommodation and Food Services,901005.0
+142,81,Other Services (except Public Administration),1879818.0
+143,92,Public Administration,259799.0
+144,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+145,21,Mining,32231.0
+146,22,Utilities,44408.0
+147,23,Construction,1484279.0
+148,31,Manufacturing,212910.0
+149,32,Manufacturing,212910.0
+150,33,Manufacturing,212910.0
+151,42,Wholesale Trade,697579.0
+152,44,Retail Trade,900083.0
+153,45,Retail Trade,900083.0
+154,48,Transportation and Warehousing,293630.5
+155,49,Transportation and Warehousing,293630.5
+156,51,Information,355030.0
+157,52,Finance and Insurance,791029.0
+158,53,Real Estate Rental and Leasing,863427.0
+159,54,"Professional, Scientific, and Technical Services",2196583.0
+160,55,Management of Companies and Enterprises,71170.0
+161,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+162,61,Educational Services,422162.0
+163,62,Health Care and Social Assistance,1683584.0
+164,71,"Arts, Entertainment, and Recreation",363300.0
+165,72,Accommodation and Food Services,901005.0
+166,81,Other Services (except Public Administration),1879818.0
+167,92,Public Administration,259799.0
+168,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+169,21,Mining,32231.0
+170,22,Utilities,44408.0
+171,23,Construction,1484279.0
+172,31,Manufacturing,212910.0
+173,32,Manufacturing,212910.0
+174,33,Manufacturing,212910.0
+175,42,Wholesale Trade,697579.0
+176,44,Retail Trade,900083.0
+177,45,Retail Trade,900083.0
+178,48,Transportation and Warehousing,293630.5
+179,49,Transportation and Warehousing,293630.5
+180,51,Information,355030.0
+181,52,Finance and Insurance,791029.0
+182,53,Real Estate Rental and Leasing,863427.0
+183,54,"Professional, Scientific, and Technical Services",2196583.0
+184,55,Management of Companies and Enterprises,71170.0
+185,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+186,61,Educational Services,422162.0
+187,62,Health Care and Social Assistance,1683584.0
+188,71,"Arts, Entertainment, and Recreation",363300.0
+189,72,Accommodation and Food Services,901005.0
+190,81,Other Services (except Public Administration),1879818.0
+191,92,Public Administration,259799.0
+192,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+193,21,Mining,32231.0
+194,22,Utilities,44408.0
+195,23,Construction,1484279.0
+196,31,Manufacturing,212910.0
+197,32,Manufacturing,212910.0
+198,33,Manufacturing,212910.0
+199,42,Wholesale Trade,697579.0
+200,44,Retail Trade,900083.0
+201,45,Retail Trade,900083.0
+202,48,Transportation and Warehousing,293630.5
+203,49,Transportation and Warehousing,293630.5
+204,51,Information,355030.0
+205,52,Finance and Insurance,791029.0
+206,53,Real Estate Rental and Leasing,863427.0
+207,54,"Professional, Scientific, and Technical Services",2196583.0
+208,55,Management of Companies and Enterprises,71170.0
+209,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+210,61,Educational Services,422162.0
+211,62,Health Care and Social Assistance,1683584.0
+212,71,"Arts, Entertainment, and Recreation",363300.0
+213,72,Accommodation and Food Services,901005.0
+214,81,Other Services (except Public Administration),1879818.0
+215,92,Public Administration,259799.0
+216,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+217,21,Mining,32231.0
+218,22,Utilities,44408.0
+219,23,Construction,1484279.0
+220,31,Manufacturing,212910.0
+221,32,Manufacturing,212910.0
+222,33,Manufacturing,212910.0
+223,42,Wholesale Trade,697579.0
+224,44,Retail Trade,900083.0
+225,45,Retail Trade,900083.0
+226,48,Transportation and Warehousing,293630.5
+227,49,Transportation and Warehousing,293630.5
+228,51,Information,355030.0
+229,52,Finance and Insurance,791029.0
+230,53,Real Estate Rental and Leasing,863427.0
+231,54,"Professional, Scientific, and Technical Services",2196583.0
+232,55,Management of Companies and Enterprises,71170.0
+233,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+234,61,Educational Services,422162.0
+235,62,Health Care and Social Assistance,1683584.0
+236,71,"Arts, Entertainment, and Recreation",363300.0
+237,72,Accommodation and Food Services,901005.0
+238,81,Other Services (except Public Administration),1879818.0
+239,92,Public Administration,259799.0
+240,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+241,21,Mining,32231.0
+242,22,Utilities,44408.0
+243,23,Construction,1484279.0
+244,31,Manufacturing,212910.0
+245,32,Manufacturing,212910.0
+246,33,Manufacturing,212910.0
+247,42,Wholesale Trade,697579.0
+248,44,Retail Trade,900083.0
+249,45,Retail Trade,900083.0
+250,48,Transportation and Warehousing,293630.5
+251,49,Transportation and Warehousing,293630.5
+252,51,Information,355030.0
+253,52,Finance and Insurance,791029.0
+254,53,Real Estate Rental and Leasing,863427.0
+255,54,"Professional, Scientific, and Technical Services",2196583.0
+256,55,Management of Companies and Enterprises,71170.0
+257,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+258,61,Educational Services,422162.0
+259,62,Health Care and Social Assistance,1683584.0
+260,71,"Arts, Entertainment, and Recreation",363300.0
+261,72,Accommodation and Food Services,901005.0
+262,81,Other Services (except Public Administration),1879818.0
+263,92,Public Administration,259799.0
+264,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+265,21,Mining,32231.0
+266,22,Utilities,44408.0
+267,23,Construction,1484279.0
+268,31,Manufacturing,212910.0
+269,32,Manufacturing,212910.0
+270,33,Manufacturing,212910.0
+271,42,Wholesale Trade,697579.0
+272,44,Retail Trade,900083.0
+273,45,Retail Trade,900083.0
+274,48,Transportation and Warehousing,293630.5
+275,49,Transportation and Warehousing,293630.5
+276,51,Information,355030.0
+277,52,Finance and Insurance,791029.0
+278,53,Real Estate Rental and Leasing,863427.0
+279,54,"Professional, Scientific, and Technical Services",2196583.0
+280,55,Management of Companies and Enterprises,71170.0
+281,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+282,61,Educational Services,422162.0
+283,62,Health Care and Social Assistance,1683584.0
+284,71,"Arts, Entertainment, and Recreation",363300.0
+285,72,Accommodation and Food Services,901005.0
+286,81,Other Services (except Public Administration),1879818.0
+287,92,Public Administration,259799.0
+288,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+289,21,Mining,32231.0
+290,22,Utilities,44408.0
+291,23,Construction,1484279.0
+292,31,Manufacturing,212910.0
+293,32,Manufacturing,212910.0
+294,33,Manufacturing,212910.0
+295,42,Wholesale Trade,697579.0
+296,44,Retail Trade,900083.0
+297,45,Retail Trade,900083.0
+298,48,Transportation and Warehousing,293630.5
+299,49,Transportation and Warehousing,293630.5
+300,51,Information,355030.0
+301,52,Finance and Insurance,791029.0
+302,53,Real Estate Rental and Leasing,863427.0
+303,54,"Professional, Scientific, and Technical Services",2196583.0
+304,55,Management of Companies and Enterprises,71170.0
+305,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+306,61,Educational Services,422162.0
+307,62,Health Care and Social Assistance,1683584.0
+308,71,"Arts, Entertainment, and Recreation",363300.0
+309,72,Accommodation and Food Services,901005.0
+310,81,Other Services (except Public Administration),1879818.0
+311,92,Public Administration,259799.0
+312,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+313,21,Mining,32231.0
+314,22,Utilities,44408.0
+315,23,Construction,1484279.0
+316,31,Manufacturing,212910.0
+317,32,Manufacturing,212910.0
+318,33,Manufacturing,212910.0
+319,42,Wholesale Trade,697579.0
+320,44,Retail Trade,900083.0
+321,45,Retail Trade,900083.0
+322,48,Transportation and Warehousing,293630.5
+323,49,Transportation and Warehousing,293630.5
+324,51,Information,355030.0
+325,52,Finance and Insurance,791029.0
+326,53,Real Estate Rental and Leasing,863427.0
+327,54,"Professional, Scientific, and Technical Services",2196583.0
+328,55,Management of Companies and Enterprises,71170.0
+329,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+330,61,Educational Services,422162.0
+331,62,Health Care and Social Assistance,1683584.0
+332,71,"Arts, Entertainment, and Recreation",363300.0
+333,72,Accommodation and Food Services,901005.0
+334,81,Other Services (except Public Administration),1879818.0
+335,92,Public Administration,259799.0
+336,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+337,21,Mining,32231.0
+338,22,Utilities,44408.0
+339,23,Construction,1484279.0
+340,31,Manufacturing,212910.0
+341,32,Manufacturing,212910.0
+342,33,Manufacturing,212910.0
+343,42,Wholesale Trade,697579.0
+344,44,Retail Trade,900083.0
+345,45,Retail Trade,900083.0
+346,48,Transportation and Warehousing,293630.5
+347,49,Transportation and Warehousing,293630.5
+348,51,Information,355030.0
+349,52,Finance and Insurance,791029.0
+350,53,Real Estate Rental and Leasing,863427.0
+351,54,"Professional, Scientific, and Technical Services",2196583.0
+352,55,Management of Companies and Enterprises,71170.0
+353,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+354,61,Educational Services,422162.0
+355,62,Health Care and Social Assistance,1683584.0
+356,71,"Arts, Entertainment, and Recreation",363300.0
+357,72,Accommodation and Food Services,901005.0
+358,81,Other Services (except Public Administration),1879818.0
+359,92,Public Administration,259799.0
+360,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+361,21,Mining,32231.0
+362,22,Utilities,44408.0
+363,23,Construction,1484279.0
+364,31,Manufacturing,212910.0
+365,32,Manufacturing,212910.0
+366,33,Manufacturing,212910.0
+367,42,Wholesale Trade,697579.0
+368,44,Retail Trade,900083.0
+369,45,Retail Trade,900083.0
+370,48,Transportation and Warehousing,293630.5
+371,49,Transportation and Warehousing,293630.5
+372,51,Information,355030.0
+373,52,Finance and Insurance,791029.0
+374,53,Real Estate Rental and Leasing,863427.0
+375,54,"Professional, Scientific, and Technical Services",2196583.0
+376,55,Management of Companies and Enterprises,71170.0
+377,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+378,61,Educational Services,422162.0
+379,62,Health Care and Social Assistance,1683584.0
+380,71,"Arts, Entertainment, and Recreation",363300.0
+381,72,Accommodation and Food Services,901005.0
+382,81,Other Services (except Public Administration),1879818.0
+383,92,Public Administration,259799.0
+384,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+385,21,Mining,32231.0
+386,22,Utilities,44408.0
+387,23,Construction,1484279.0
+388,31,Manufacturing,212910.0
+389,32,Manufacturing,212910.0
+390,33,Manufacturing,212910.0
+391,42,Wholesale Trade,697579.0
+392,44,Retail Trade,900083.0
+393,45,Retail Trade,900083.0
+394,48,Transportation and Warehousing,293630.5
+395,49,Transportation and Warehousing,293630.5
+396,51,Information,355030.0
+397,52,Finance and Insurance,791029.0
+398,53,Real Estate Rental and Leasing,863427.0
+399,54,"Professional, Scientific, and Technical Services",2196583.0
+400,55,Management of Companies and Enterprises,71170.0
+401,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+402,61,Educational Services,422162.0
+403,62,Health Care and Social Assistance,1683584.0
+404,71,"Arts, Entertainment, and Recreation",363300.0
+405,72,Accommodation and Food Services,901005.0
+406,81,Other Services (except Public Administration),1879818.0
+407,92,Public Administration,259799.0
+408,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+409,21,Mining,32231.0
+410,22,Utilities,44408.0
+411,23,Construction,1484279.0
+412,31,Manufacturing,212910.0
+413,32,Manufacturing,212910.0
+414,33,Manufacturing,212910.0
+415,42,Wholesale Trade,697579.0
+416,44,Retail Trade,900083.0
+417,45,Retail Trade,900083.0
+418,48,Transportation and Warehousing,293630.5
+419,49,Transportation and Warehousing,293630.5
+420,51,Information,355030.0
+421,52,Finance and Insurance,791029.0
+422,53,Real Estate Rental and Leasing,863427.0
+423,54,"Professional, Scientific, and Technical Services",2196583.0
+424,55,Management of Companies and Enterprises,71170.0
+425,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+426,61,Educational Services,422162.0
+427,62,Health Care and Social Assistance,1683584.0
+428,71,"Arts, Entertainment, and Recreation",363300.0
+429,72,Accommodation and Food Services,901005.0
+430,81,Other Services (except Public Administration),1879818.0
+431,92,Public Administration,259799.0
+432,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+433,21,Mining,32231.0
+434,22,Utilities,44408.0
+435,23,Construction,1484279.0
+436,31,Manufacturing,212910.0
+437,32,Manufacturing,212910.0
+438,33,Manufacturing,212910.0
+439,42,Wholesale Trade,697579.0
+440,44,Retail Trade,900083.0
+441,45,Retail Trade,900083.0
+442,48,Transportation and Warehousing,293630.5
+443,49,Transportation and Warehousing,293630.5
+444,51,Information,355030.0
+445,52,Finance and Insurance,791029.0
+446,53,Real Estate Rental and Leasing,863427.0
+447,54,"Professional, Scientific, and Technical Services",2196583.0
+448,55,Management of Companies and Enterprises,71170.0
+449,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+450,61,Educational Services,422162.0
+451,62,Health Care and Social Assistance,1683584.0
+452,71,"Arts, Entertainment, and Recreation",363300.0
+453,72,Accommodation and Food Services,901005.0
+454,81,Other Services (except Public Administration),1879818.0
+455,92,Public Administration,259799.0
+456,11,"Agriculture, Forestry, Fishing and Hunting",378293.0
+457,21,Mining,32231.0
+458,22,Utilities,44408.0
+459,23,Construction,1484279.0
+460,31,Manufacturing,212910.0
+461,32,Manufacturing,212910.0
+462,33,Manufacturing,212910.0
+463,42,Wholesale Trade,697579.0
+464,44,Retail Trade,900083.0
+465,45,Retail Trade,900083.0
+466,48,Transportation and Warehousing,293630.5
+467,49,Transportation and Warehousing,293630.5
+468,51,Information,355030.0
+469,52,Finance and Insurance,791029.0
+470,53,Real Estate Rental and Leasing,863427.0
+471,54,"Professional, Scientific, and Technical Services",2196583.0
+472,55,Management of Companies and Enterprises,71170.0
+473,56,Administrative and Support and Waste Management and Remediation Services,1755832.0
+474,61,Educational Services,422162.0
+475,62,Health Care and Social Assistance,1683584.0
+476,71,"Arts, Entertainment, and Recreation",363300.0
+477,72,Accommodation and Food Services,901005.0
+478,81,Other Services (except Public Administration),1879818.0
+479,92,Public Administration,259799.0
